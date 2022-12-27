@@ -1,0 +1,1638 @@
+[
+  {
+    "Pinyin": "a",
+    "Wade-Giles": "a"
+  },
+  {
+    "Pinyin": "ai",
+    "Wade-Giles": "ai"
+  },
+  {
+    "Pinyin": "an",
+    "Wade-Giles": "an"
+  },
+  {
+    "Pinyin": "ang",
+    "Wade-Giles": "ang"
+  },
+  {
+    "Pinyin": "ao",
+    "Wade-Giles": "ao"
+  },
+  {
+    "Pinyin": "ba",
+    "Wade-Giles": "pa"
+  },
+  {
+    "Pinyin": "bai",
+    "Wade-Giles": "pai"
+  },
+  {
+    "Pinyin": "ban",
+    "Wade-Giles": "pan"
+  },
+  {
+    "Pinyin": "bang",
+    "Wade-Giles": "pang"
+  },
+  {
+    "Pinyin": "bao",
+    "Wade-Giles": "pao"
+  },
+  {
+    "Pinyin": "bei",
+    "Wade-Giles": "pei"
+  },
+  {
+    "Pinyin": "ben",
+    "Wade-Giles": "pen"
+  },
+  {
+    "Pinyin": "beng",
+    "Wade-Giles": "peng"
+  },
+  {
+    "Pinyin": "bi",
+    "Wade-Giles": "pi"
+  },
+  {
+    "Pinyin": "bian",
+    "Wade-Giles": "pien"
+  },
+  {
+    "Pinyin": "biao",
+    "Wade-Giles": "piao"
+  },
+  {
+    "Pinyin": "bie",
+    "Wade-Giles": "pieh"
+  },
+  {
+    "Pinyin": "bin",
+    "Wade-Giles": "pin"
+  },
+  {
+    "Pinyin": "bing",
+    "Wade-Giles": "ping"
+  },
+  {
+    "Pinyin": "bo",
+    "Wade-Giles": "po"
+  },
+  {
+    "Pinyin": "bu",
+    "Wade-Giles": "pu"
+  },
+  {
+    "Pinyin": "ca",
+    "Wade-Giles": "ts'a"
+  },
+  {
+    "Pinyin": "cai",
+    "Wade-Giles": "ts'ai"
+  },
+  {
+    "Pinyin": "can",
+    "Wade-Giles": "ts'an"
+  },
+  {
+    "Pinyin": "cang",
+    "Wade-Giles": "ts'ang"
+  },
+  {
+    "Pinyin": "cao",
+    "Wade-Giles": "ts'ao"
+  },
+  {
+    "Pinyin": "ce",
+    "Wade-Giles": "ts'e"
+  },
+  {
+    "Pinyin": "cen",
+    "Wade-Giles": "ts'en"
+  },
+  {
+    "Pinyin": "ceng",
+    "Wade-Giles": "ts'eng"
+  },
+  {
+    "Pinyin": "cha",
+    "Wade-Giles": "ch'a"
+  },
+  {
+    "Pinyin": "chai",
+    "Wade-Giles": "ch'ai"
+  },
+  {
+    "Pinyin": "chan",
+    "Wade-Giles": "ch'an"
+  },
+  {
+    "Pinyin": "chang",
+    "Wade-Giles": "ch'ang"
+  },
+  {
+    "Pinyin": "chao",
+    "Wade-Giles": "ch'ao"
+  },
+  {
+    "Pinyin": "che",
+    "Wade-Giles": "ch'e"
+  },
+  {
+    "Pinyin": "chen",
+    "Wade-Giles": "ch'en"
+  },
+  {
+    "Pinyin": "cheng",
+    "Wade-Giles": "ch'eng"
+  },
+  {
+    "Pinyin": "chi",
+    "Wade-Giles": "ch'ih"
+  },
+  {
+    "Pinyin": "chong",
+    "Wade-Giles": "ch'ung"
+  },
+  {
+    "Pinyin": "chou",
+    "Wade-Giles": "ch'ou"
+  },
+  {
+    "Pinyin": "chu",
+    "Wade-Giles": "ch'u"
+  },
+  {
+    "Pinyin": "chua",
+    "Wade-Giles": "ch'ua"
+  },
+  {
+    "Pinyin": "chuai",
+    "Wade-Giles": "ch'uai"
+  },
+  {
+    "Pinyin": "chuan",
+    "Wade-Giles": "ch'uan"
+  },
+  {
+    "Pinyin": "chuang",
+    "Wade-Giles": "ch'uang"
+  },
+  {
+    "Pinyin": "chui",
+    "Wade-Giles": "ch'ui"
+  },
+  {
+    "Pinyin": "chun",
+    "Wade-Giles": "ch'un"
+  },
+  {
+    "Pinyin": "chuo",
+    "Wade-Giles": "ch'o"
+  },
+  {
+    "Pinyin": "ci",
+    "Wade-Giles": "tz'u"
+  },
+  {
+    "Pinyin": "cong",
+    "Wade-Giles": "ts'ung"
+  },
+  {
+    "Pinyin": "cou",
+    "Wade-Giles": "ts'ou"
+  },
+  {
+    "Pinyin": "cu",
+    "Wade-Giles": "ts'u"
+  },
+  {
+    "Pinyin": "cuan",
+    "Wade-Giles": "ts'uan"
+  },
+  {
+    "Pinyin": "cui",
+    "Wade-Giles": "ts'ui"
+  },
+  {
+    "Pinyin": "cun",
+    "Wade-Giles": "ts'un"
+  },
+  {
+    "Pinyin": "cuo",
+    "Wade-Giles": "ts'o"
+  },
+  {
+    "Pinyin": "da",
+    "Wade-Giles": "ta"
+  },
+  {
+    "Pinyin": "dai",
+    "Wade-Giles": "tai"
+  },
+  {
+    "Pinyin": "dan",
+    "Wade-Giles": "tan"
+  },
+  {
+    "Pinyin": "dang",
+    "Wade-Giles": "tang"
+  },
+  {
+    "Pinyin": "dao",
+    "Wade-Giles": "tao"
+  },
+  {
+    "Pinyin": "de",
+    "Wade-Giles": "te"
+  },
+  {
+    "Pinyin": "dei",
+    "Wade-Giles": "tei"
+  },
+  {
+    "Pinyin": "den",
+    "Wade-Giles": "tun"
+  },
+  {
+    "Pinyin": "deng",
+    "Wade-Giles": "teng"
+  },
+  {
+    "Pinyin": "di",
+    "Wade-Giles": "ti"
+  },
+  {
+    "Pinyin": "dian",
+    "Wade-Giles": "tien"
+  },
+  {
+    "Pinyin": "diao",
+    "Wade-Giles": "tiao"
+  },
+  {
+    "Pinyin": "die",
+    "Wade-Giles": "tieh"
+  },
+  {
+    "Pinyin": "ding",
+    "Wade-Giles": "ting"
+  },
+  {
+    "Pinyin": "diu",
+    "Wade-Giles": "tiu"
+  },
+  {
+    "Pinyin": "dong",
+    "Wade-Giles": "tung"
+  },
+  {
+    "Pinyin": "du",
+    "Wade-Giles": "tu"
+  },
+  {
+    "Pinyin": "duan",
+    "Wade-Giles": "tuan"
+  },
+  {
+    "Pinyin": "dui",
+    "Wade-Giles": "tui"
+  },
+  {
+    "Pinyin": "dun",
+    "Wade-Giles": "tun"
+  },
+  {
+    "Pinyin": "duo",
+    "Wade-Giles": "to"
+  },
+  {
+    "Pinyin": "e",
+    "Wade-Giles": "o"
+  },
+  {
+    "Pinyin": "e",
+    "Wade-Giles": "e"
+  },
+  {
+    "Pinyin": "e",
+    "Wade-Giles": "eh"
+  },
+  {
+    "Pinyin": "en",
+    "Wade-Giles": "en"
+  },
+  {
+    "Pinyin": "er",
+    "Wade-Giles": "erh"
+  },
+  {
+    "Pinyin": "fa",
+    "Wade-Giles": "fa"
+  },
+  {
+    "Pinyin": "fan",
+    "Wade-Giles": "fan"
+  },
+  {
+    "Pinyin": "fang",
+    "Wade-Giles": "fang"
+  },
+  {
+    "Pinyin": "fei",
+    "Wade-Giles": "fei"
+  },
+  {
+    "Pinyin": "fen",
+    "Wade-Giles": "fen"
+  },
+  {
+    "Pinyin": "feng",
+    "Wade-Giles": "feng"
+  },
+  {
+    "Pinyin": "fo",
+    "Wade-Giles": "fo"
+  },
+  {
+    "Pinyin": "fou",
+    "Wade-Giles": "fou"
+  },
+  {
+    "Pinyin": "fu",
+    "Wade-Giles": "fu"
+  },
+  {
+    "Pinyin": "ga",
+    "Wade-Giles": "ka"
+  },
+  {
+    "Pinyin": "gai",
+    "Wade-Giles": "kai"
+  },
+  {
+    "Pinyin": "gan",
+    "Wade-Giles": "kan"
+  },
+  {
+    "Pinyin": "gang",
+    "Wade-Giles": "kang"
+  },
+  {
+    "Pinyin": "gao",
+    "Wade-Giles": "kao"
+  },
+  {
+    "Pinyin": "ge",
+    "Wade-Giles": "ko"
+  },
+  {
+    "Pinyin": "gei",
+    "Wade-Giles": "kei"
+  },
+  {
+    "Pinyin": "gen",
+    "Wade-Giles": "ken"
+  },
+  {
+    "Pinyin": "geng",
+    "Wade-Giles": "keng"
+  },
+  {
+    "Pinyin": "gong",
+    "Wade-Giles": "kung"
+  },
+  {
+    "Pinyin": "gou",
+    "Wade-Giles": "kou"
+  },
+  {
+    "Pinyin": "gu",
+    "Wade-Giles": "ku"
+  },
+  {
+    "Pinyin": "gua",
+    "Wade-Giles": "kua"
+  },
+  {
+    "Pinyin": "guai",
+    "Wade-Giles": "kuai"
+  },
+  {
+    "Pinyin": "guan",
+    "Wade-Giles": "kuan"
+  },
+  {
+    "Pinyin": "guang",
+    "Wade-Giles": "kuang"
+  },
+  {
+    "Pinyin": "gui",
+    "Wade-Giles": "kuei"
+  },
+  {
+    "Pinyin": "gun",
+    "Wade-Giles": "kun"
+  },
+  {
+    "Pinyin": "guo",
+    "Wade-Giles": "kuo"
+  },
+  {
+    "Pinyin": "ha",
+    "Wade-Giles": "ha"
+  },
+  {
+    "Pinyin": "hai",
+    "Wade-Giles": "hai"
+  },
+  {
+    "Pinyin": "han",
+    "Wade-Giles": "han"
+  },
+  {
+    "Pinyin": "hang",
+    "Wade-Giles": "hang"
+  },
+  {
+    "Pinyin": "hao",
+    "Wade-Giles": "hao"
+  },
+  {
+    "Pinyin": "he",
+    "Wade-Giles": "ho"
+  },
+  {
+    "Pinyin": "hei",
+    "Wade-Giles": "hei"
+  },
+  {
+    "Pinyin": "hen",
+    "Wade-Giles": "hen"
+  },
+  {
+    "Pinyin": "heng",
+    "Wade-Giles": "heng"
+  },
+  {
+    "Pinyin": "hong",
+    "Wade-Giles": "hung"
+  },
+  {
+    "Pinyin": "hou",
+    "Wade-Giles": "hou"
+  },
+  {
+    "Pinyin": "hu",
+    "Wade-Giles": "hu"
+  },
+  {
+    "Pinyin": "hua",
+    "Wade-Giles": "hua"
+  },
+  {
+    "Pinyin": "huai",
+    "Wade-Giles": "huai"
+  },
+  {
+    "Pinyin": "huan",
+    "Wade-Giles": "huan"
+  },
+  {
+    "Pinyin": "huang",
+    "Wade-Giles": "huang"
+  },
+  {
+    "Pinyin": "hui",
+    "Wade-Giles": "hui"
+  },
+  {
+    "Pinyin": "hun",
+    "Wade-Giles": "hun"
+  },
+  {
+    "Pinyin": "huo",
+    "Wade-Giles": "huo"
+  },
+  {
+    "Pinyin": "ji",
+    "Wade-Giles": "chi"
+  },
+  {
+    "Pinyin": "Jia",
+    "Wade-Giles": "chia"
+  },
+  {
+    "Pinyin": "jian",
+    "Wade-Giles": "chien"
+  },
+  {
+    "Pinyin": "jiang",
+    "Wade-Giles": "chiang"
+  },
+  {
+    "Pinyin": "jiao",
+    "Wade-Giles": "chiao"
+  },
+  {
+    "Pinyin": "jie",
+    "Wade-Giles": "chieh"
+  },
+  {
+    "Pinyin": "jin",
+    "Wade-Giles": "chin"
+  },
+  {
+    "Pinyin": "jing",
+    "Wade-Giles": "ching"
+  },
+  {
+    "Pinyin": "jiong",
+    "Wade-Giles": "chiung"
+  },
+  {
+    "Pinyin": "jiu",
+    "Wade-Giles": "chiu"
+  },
+  {
+    "Pinyin": "ju",
+    "Wade-Giles": "ch\u00fc\u00a0"
+  },
+  {
+    "Pinyin": "juan",
+    "Wade-Giles": "ch\u00fcan\u00a0"
+  },
+  {
+    "Pinyin": "jue",
+    "Wade-Giles": "ch\u00fceh\u00a0"
+  },
+  {
+    "Pinyin": "jun",
+    "Wade-Giles": "ch\u00fcn\u00a0"
+  },
+  {
+    "Pinyin": "ka",
+    "Wade-Giles": "k'a"
+  },
+  {
+    "Pinyin": "kai",
+    "Wade-Giles": "k'ai"
+  },
+  {
+    "Pinyin": "kan",
+    "Wade-Giles": "k'an"
+  },
+  {
+    "Pinyin": "kang",
+    "Wade-Giles": "k'ang"
+  },
+  {
+    "Pinyin": "kao",
+    "Wade-Giles": "k'ao"
+  },
+  {
+    "Pinyin": "ke",
+    "Wade-Giles": "k'o"
+  },
+  {
+    "Pinyin": "kei",
+    "Wade-Giles": "k'o"
+  },
+  {
+    "Pinyin": "ken",
+    "Wade-Giles": "k'en"
+  },
+  {
+    "Pinyin": "keng",
+    "Wade-Giles": "k'eng"
+  },
+  {
+    "Pinyin": "kong",
+    "Wade-Giles": "k'ung"
+  },
+  {
+    "Pinyin": "kou",
+    "Wade-Giles": "k'ou"
+  },
+  {
+    "Pinyin": "ku",
+    "Wade-Giles": "k'u"
+  },
+  {
+    "Pinyin": "kua",
+    "Wade-Giles": "k'ua"
+  },
+  {
+    "Pinyin": "kuai",
+    "Wade-Giles": "k'uai"
+  },
+  {
+    "Pinyin": "kuan",
+    "Wade-Giles": "k'uan"
+  },
+  {
+    "Pinyin": "kuang",
+    "Wade-Giles": "k'uang"
+  },
+  {
+    "Pinyin": "kui",
+    "Wade-Giles": "k'uei"
+  },
+  {
+    "Pinyin": "kun",
+    "Wade-Giles": "k'un"
+  },
+  {
+    "Pinyin": "kuo",
+    "Wade-Giles": "k'uo"
+  },
+  {
+    "Pinyin": "la",
+    "Wade-Giles": "la"
+  },
+  {
+    "Pinyin": "lai",
+    "Wade-Giles": "lai"
+  },
+  {
+    "Pinyin": "lan",
+    "Wade-Giles": "lan"
+  },
+  {
+    "Pinyin": "lang",
+    "Wade-Giles": "lang"
+  },
+  {
+    "Pinyin": "lao",
+    "Wade-Giles": "lao"
+  },
+  {
+    "Pinyin": "le",
+    "Wade-Giles": "le"
+  },
+  {
+    "Pinyin": "lei",
+    "Wade-Giles": "lei"
+  },
+  {
+    "Pinyin": "leng",
+    "Wade-Giles": "leng"
+  },
+  {
+    "Pinyin": "li",
+    "Wade-Giles": "li"
+  },
+  {
+    "Pinyin": "lia",
+    "Wade-Giles": "lia"
+  },
+  {
+    "Pinyin": "lian",
+    "Wade-Giles": "lien"
+  },
+  {
+    "Pinyin": "liang",
+    "Wade-Giles": "liang"
+  },
+  {
+    "Pinyin": "liao",
+    "Wade-Giles": "liao"
+  },
+  {
+    "Pinyin": "lie",
+    "Wade-Giles": "lieh"
+  },
+  {
+    "Pinyin": "lin",
+    "Wade-Giles": "lin"
+  },
+  {
+    "Pinyin": "ling",
+    "Wade-Giles": "ling"
+  },
+  {
+    "Pinyin": "liu",
+    "Wade-Giles": "liu"
+  },
+  {
+    "Pinyin": "lo",
+    "Wade-Giles": "lo"
+  },
+  {
+    "Pinyin": "long",
+    "Wade-Giles": "lung"
+  },
+  {
+    "Pinyin": "lou",
+    "Wade-Giles": "lou"
+  },
+  {
+    "Pinyin": "lu",
+    "Wade-Giles": "lu"
+  },
+  {
+    "Pinyin": "l\u00fc\u00a0",
+    "Wade-Giles": "l\u00fc\u00a0"
+  },
+  {
+    "Pinyin": "l\u00fce\u00a0",
+    "Wade-Giles": "l\u00fceh\u00a0"
+  },
+  {
+    "Pinyin": "luan",
+    "Wade-Giles": "luan"
+  },
+  {
+    "Pinyin": "lun",
+    "Wade-Giles": "lun"
+  },
+  {
+    "Pinyin": "luo",
+    "Wade-Giles": "lo"
+  },
+  {
+    "Pinyin": "ma",
+    "Wade-Giles": "ma"
+  },
+  {
+    "Pinyin": "mai",
+    "Wade-Giles": "mai"
+  },
+  {
+    "Pinyin": "man",
+    "Wade-Giles": "man"
+  },
+  {
+    "Pinyin": "mang",
+    "Wade-Giles": "mang"
+  },
+  {
+    "Pinyin": "mao",
+    "Wade-Giles": "mao"
+  },
+  {
+    "Pinyin": "me",
+    "Wade-Giles": "me"
+  },
+  {
+    "Pinyin": "mei",
+    "Wade-Giles": "mei"
+  },
+  {
+    "Pinyin": "men",
+    "Wade-Giles": "men"
+  },
+  {
+    "Pinyin": "mi",
+    "Wade-Giles": "mi"
+  },
+  {
+    "Pinyin": "mian",
+    "Wade-Giles": "mien"
+  },
+  {
+    "Pinyin": "miao",
+    "Wade-Giles": "miao"
+  },
+  {
+    "Pinyin": "mie",
+    "Wade-Giles": "mieh"
+  },
+  {
+    "Pinyin": "min",
+    "Wade-Giles": "min"
+  },
+  {
+    "Pinyin": "ming",
+    "Wade-Giles": "ming"
+  },
+  {
+    "Pinyin": "miu",
+    "Wade-Giles": "miu"
+  },
+  {
+    "Pinyin": "mo",
+    "Wade-Giles": "mo"
+  },
+  {
+    "Pinyin": "mou",
+    "Wade-Giles": "mou"
+  },
+  {
+    "Pinyin": "mu",
+    "Wade-Giles": "mu"
+  },
+  {
+    "Pinyin": "na",
+    "Wade-Giles": "na"
+  },
+  {
+    "Pinyin": "nai",
+    "Wade-Giles": "nai"
+  },
+  {
+    "Pinyin": null,
+    "Wade-Giles": null
+  },
+  {
+    "Pinyin": "nang",
+    "Wade-Giles": "nang"
+  },
+  {
+    "Pinyin": "nao",
+    "Wade-Giles": "nao"
+  },
+  {
+    "Pinyin": "ne",
+    "Wade-Giles": "ne"
+  },
+  {
+    "Pinyin": "nei",
+    "Wade-Giles": "nei"
+  },
+  {
+    "Pinyin": "nen",
+    "Wade-Giles": "nen"
+  },
+  {
+    "Pinyin": "neng",
+    "Wade-Giles": "neng"
+  },
+  {
+    "Pinyin": "ni",
+    "Wade-Giles": "ni"
+  },
+  {
+    "Pinyin": "nian",
+    "Wade-Giles": "nien"
+  },
+  {
+    "Pinyin": "niang",
+    "Wade-Giles": "niang"
+  },
+  {
+    "Pinyin": "niao",
+    "Wade-Giles": "niao"
+  },
+  {
+    "Pinyin": "nie",
+    "Wade-Giles": "nieh"
+  },
+  {
+    "Pinyin": "nin",
+    "Wade-Giles": "nin"
+  },
+  {
+    "Pinyin": "ning",
+    "Wade-Giles": "ning"
+  },
+  {
+    "Pinyin": "niu",
+    "Wade-Giles": "niu"
+  },
+  {
+    "Pinyin": "nong",
+    "Wade-Giles": "nung"
+  },
+  {
+    "Pinyin": "nou",
+    "Wade-Giles": "nou"
+  },
+  {
+    "Pinyin": "nu",
+    "Wade-Giles": "nu"
+  },
+  {
+    "Pinyin": "n\u00fc ",
+    "Wade-Giles": "n\u00fc "
+  },
+  {
+    "Pinyin": "nuan",
+    "Wade-Giles": "nuan"
+  },
+  {
+    "Pinyin": "nuo",
+    "Wade-Giles": "no"
+  },
+  {
+    "Pinyin": "n\u00fce ",
+    "Wade-Giles": "n\u00fceh "
+  },
+  {
+    "Pinyin": "o",
+    "Wade-Giles": "o"
+  },
+  {
+    "Pinyin": "ou",
+    "Wade-Giles": "ou"
+  },
+  {
+    "Pinyin": "pa",
+    "Wade-Giles": "p'a"
+  },
+  {
+    "Pinyin": "p",
+    "Wade-Giles": "p'ai"
+  },
+  {
+    "Pinyin": "pan",
+    "Wade-Giles": "p'an"
+  },
+  {
+    "Pinyin": "pang",
+    "Wade-Giles": "p'ang"
+  },
+  {
+    "Pinyin": "pao",
+    "Wade-Giles": "p'ao"
+  },
+  {
+    "Pinyin": "pei",
+    "Wade-Giles": "p'ei"
+  },
+  {
+    "Pinyin": "pen",
+    "Wade-Giles": "p'en"
+  },
+  {
+    "Pinyin": "peng",
+    "Wade-Giles": "p'eng"
+  },
+  {
+    "Pinyin": "pi",
+    "Wade-Giles": "p'i"
+  },
+  {
+    "Pinyin": "pian",
+    "Wade-Giles": "p'ien"
+  },
+  {
+    "Pinyin": "piao",
+    "Wade-Giles": "p'iao"
+  },
+  {
+    "Pinyin": "pie",
+    "Wade-Giles": "p'ieh"
+  },
+  {
+    "Pinyin": "pin",
+    "Wade-Giles": "p'in"
+  },
+  {
+    "Pinyin": "ping",
+    "Wade-Giles": "p'ing"
+  },
+  {
+    "Pinyin": "po",
+    "Wade-Giles": "p'o"
+  },
+  {
+    "Pinyin": "pou",
+    "Wade-Giles": "p'ou"
+  },
+  {
+    "Pinyin": "pu",
+    "Wade-Giles": "p'u"
+  },
+  {
+    "Pinyin": "qi",
+    "Wade-Giles": "ch'i"
+  },
+  {
+    "Pinyin": "qia",
+    "Wade-Giles": "ch'ia"
+  },
+  {
+    "Pinyin": "qian",
+    "Wade-Giles": "ch'ien"
+  },
+  {
+    "Pinyin": "qiang",
+    "Wade-Giles": "ch'iang"
+  },
+  {
+    "Pinyin": "qiao",
+    "Wade-Giles": "ch'iao"
+  },
+  {
+    "Pinyin": "qie",
+    "Wade-Giles": "ch'ieh"
+  },
+  {
+    "Pinyin": "qin",
+    "Wade-Giles": "ch'in"
+  },
+  {
+    "Pinyin": "qing",
+    "Wade-Giles": "ch'ing"
+  },
+  {
+    "Pinyin": "qiong",
+    "Wade-Giles": "ch'iung"
+  },
+  {
+    "Pinyin": "qiu",
+    "Wade-Giles": "ch'iu"
+  },
+  {
+    "Pinyin": "qu",
+    "Wade-Giles": "ch'u"
+  },
+  {
+    "Pinyin": "quan",
+    "Wade-Giles": "ch\u2019\u00fcan "
+  },
+  {
+    "Pinyin": "que",
+    "Wade-Giles": "ch\u2019\u00fceh\u00a0"
+  },
+  {
+    "Pinyin": "qun",
+    "Wade-Giles": "ch\u2019\u00fcn "
+  },
+  {
+    "Pinyin": "ran",
+    "Wade-Giles": "jan"
+  },
+  {
+    "Pinyin": "rang",
+    "Wade-Giles": "jang"
+  },
+  {
+    "Pinyin": "rao",
+    "Wade-Giles": "jao"
+  },
+  {
+    "Pinyin": "re",
+    "Wade-Giles": "je"
+  },
+  {
+    "Pinyin": "ren",
+    "Wade-Giles": "jen"
+  },
+  {
+    "Pinyin": "reng",
+    "Wade-Giles": "jeng"
+  },
+  {
+    "Pinyin": "ri",
+    "Wade-Giles": "jih"
+  },
+  {
+    "Pinyin": "rong",
+    "Wade-Giles": "jung"
+  },
+  {
+    "Pinyin": "rou",
+    "Wade-Giles": "jou"
+  },
+  {
+    "Pinyin": "ru",
+    "Wade-Giles": "ju"
+  },
+  {
+    "Pinyin": "ruan",
+    "Wade-Giles": "juan"
+  },
+  {
+    "Pinyin": "rui",
+    "Wade-Giles": "jui"
+  },
+  {
+    "Pinyin": "run",
+    "Wade-Giles": "jun"
+  },
+  {
+    "Pinyin": "ruo",
+    "Wade-Giles": "jo"
+  },
+  {
+    "Pinyin": "sa",
+    "Wade-Giles": "sa"
+  },
+  {
+    "Pinyin": "sai",
+    "Wade-Giles": "sai"
+  },
+  {
+    "Pinyin": "san",
+    "Wade-Giles": "san"
+  },
+  {
+    "Pinyin": "sang",
+    "Wade-Giles": "sang"
+  },
+  {
+    "Pinyin": "sao",
+    "Wade-Giles": "sao"
+  },
+  {
+    "Pinyin": "se",
+    "Wade-Giles": "se"
+  },
+  {
+    "Pinyin": "sen",
+    "Wade-Giles": "sen"
+  },
+  {
+    "Pinyin": "seng",
+    "Wade-Giles": "seng"
+  },
+  {
+    "Pinyin": "sha",
+    "Wade-Giles": "sha"
+  },
+  {
+    "Pinyin": "shai",
+    "Wade-Giles": "shai"
+  },
+  {
+    "Pinyin": "shan",
+    "Wade-Giles": "shan"
+  },
+  {
+    "Pinyin": "shang",
+    "Wade-Giles": "shang"
+  },
+  {
+    "Pinyin": "shao",
+    "Wade-Giles": "shao"
+  },
+  {
+    "Pinyin": "she",
+    "Wade-Giles": "she"
+  },
+  {
+    "Pinyin": "shei",
+    "Wade-Giles": "shei"
+  },
+  {
+    "Pinyin": "shen",
+    "Wade-Giles": "shen"
+  },
+  {
+    "Pinyin": "sheng",
+    "Wade-Giles": "sheng"
+  },
+  {
+    "Pinyin": "shi",
+    "Wade-Giles": "shih"
+  },
+  {
+    "Pinyin": "shou",
+    "Wade-Giles": "shou"
+  },
+  {
+    "Pinyin": "shu",
+    "Wade-Giles": "shu"
+  },
+  {
+    "Pinyin": "shua",
+    "Wade-Giles": "shua"
+  },
+  {
+    "Pinyin": "shuai",
+    "Wade-Giles": "shuai"
+  },
+  {
+    "Pinyin": "shuan",
+    "Wade-Giles": "shuan"
+  },
+  {
+    "Pinyin": "shuang",
+    "Wade-Giles": "shuang"
+  },
+  {
+    "Pinyin": "shui",
+    "Wade-Giles": "shui"
+  },
+  {
+    "Pinyin": "shun",
+    "Wade-Giles": "shun"
+  },
+  {
+    "Pinyin": "shuo",
+    "Wade-Giles": "shuo"
+  },
+  {
+    "Pinyin": "si",
+    "Wade-Giles": "ssu"
+  },
+  {
+    "Pinyin": "song",
+    "Wade-Giles": "sung"
+  },
+  {
+    "Pinyin": "sou",
+    "Wade-Giles": "sou"
+  },
+  {
+    "Pinyin": "su",
+    "Wade-Giles": "su"
+  },
+  {
+    "Pinyin": "suan",
+    "Wade-Giles": "suan"
+  },
+  {
+    "Pinyin": "sui",
+    "Wade-Giles": "sui"
+  },
+  {
+    "Pinyin": "sun",
+    "Wade-Giles": "sun"
+  },
+  {
+    "Pinyin": "suo",
+    "Wade-Giles": "so"
+  },
+  {
+    "Pinyin": "ta",
+    "Wade-Giles": "t'a"
+  },
+  {
+    "Pinyin": "tai",
+    "Wade-Giles": "t'ai"
+  },
+  {
+    "Pinyin": "tan",
+    "Wade-Giles": "t'an"
+  },
+  {
+    "Pinyin": "tao",
+    "Wade-Giles": "t'ao"
+  },
+  {
+    "Pinyin": "tang",
+    "Wade-Giles": "t'ang"
+  },
+  {
+    "Pinyin": "te",
+    "Wade-Giles": "t'e"
+  },
+  {
+    "Pinyin": "tei",
+    "Wade-Giles": "t'ai"
+  },
+  {
+    "Pinyin": "teng",
+    "Wade-Giles": "t'eng"
+  },
+  {
+    "Pinyin": "ti",
+    "Wade-Giles": "t'i"
+  },
+  {
+    "Pinyin": "tian",
+    "Wade-Giles": "t'ien"
+  },
+  {
+    "Pinyin": "tiao",
+    "Wade-Giles": "t'iao"
+  },
+  {
+    "Pinyin": "tie",
+    "Wade-Giles": "t'ieh"
+  },
+  {
+    "Pinyin": "ting",
+    "Wade-Giles": "t'ing"
+  },
+  {
+    "Pinyin": "tong",
+    "Wade-Giles": "t'ung"
+  },
+  {
+    "Pinyin": "tou",
+    "Wade-Giles": "t'ou"
+  },
+  {
+    "Pinyin": "tu",
+    "Wade-Giles": "t'u"
+  },
+  {
+    "Pinyin": "tuan",
+    "Wade-Giles": "t'uan"
+  },
+  {
+    "Pinyin": "tui",
+    "Wade-Giles": "t'ui"
+  },
+  {
+    "Pinyin": "tun",
+    "Wade-Giles": "t'un"
+  },
+  {
+    "Pinyin": "tuo",
+    "Wade-Giles": "t'o"
+  },
+  {
+    "Pinyin": "wa",
+    "Wade-Giles": "wa"
+  },
+  {
+    "Pinyin": "wai",
+    "Wade-Giles": "wai"
+  },
+  {
+    "Pinyin": "wan",
+    "Wade-Giles": "wan"
+  },
+  {
+    "Pinyin": "wang",
+    "Wade-Giles": "wang"
+  },
+  {
+    "Pinyin": "wei",
+    "Wade-Giles": "wei"
+  },
+  {
+    "Pinyin": "wen",
+    "Wade-Giles": "wen"
+  },
+  {
+    "Pinyin": "weng",
+    "Wade-Giles": "weng"
+  },
+  {
+    "Pinyin": "wo",
+    "Wade-Giles": "wo"
+  },
+  {
+    "Pinyin": "wu",
+    "Wade-Giles": "wu"
+  },
+  {
+    "Pinyin": "xi",
+    "Wade-Giles": "hsi"
+  },
+  {
+    "Pinyin": "xia",
+    "Wade-Giles": "hsia"
+  },
+  {
+    "Pinyin": "xian",
+    "Wade-Giles": "hsien"
+  },
+  {
+    "Pinyin": "xiang",
+    "Wade-Giles": "hsieng"
+  },
+  {
+    "Pinyin": "xiang",
+    "Wade-Giles": "hsiang"
+  },
+  {
+    "Pinyin": "xiao",
+    "Wade-Giles": "hsiao"
+  },
+  {
+    "Pinyin": "xie",
+    "Wade-Giles": "hsieh"
+  },
+  {
+    "Pinyin": "xin",
+    "Wade-Giles": "hsin"
+  },
+  {
+    "Pinyin": "xing",
+    "Wade-Giles": "hsing"
+  },
+  {
+    "Pinyin": "xiong",
+    "Wade-Giles": "hsiung"
+  },
+  {
+    "Pinyin": "xiu",
+    "Wade-Giles": "hsiu"
+  },
+  {
+    "Pinyin": "xu",
+    "Wade-Giles": "hs\u00fc\u00a0"
+  },
+  {
+    "Pinyin": "xuan",
+    "Wade-Giles": "hs\u00fcan\u00a0"
+  },
+  {
+    "Pinyin": "xue",
+    "Wade-Giles": "hs\u00fceh\u00a0"
+  },
+  {
+    "Pinyin": "xun",
+    "Wade-Giles": "hs\u00fcn\u00a0"
+  },
+  {
+    "Pinyin": "ya",
+    "Wade-Giles": "ya"
+  },
+  {
+    "Pinyin": "yai",
+    "Wade-Giles": "yai"
+  },
+  {
+    "Pinyin": "yan",
+    "Wade-Giles": "yen"
+  },
+  {
+    "Pinyin": "yang",
+    "Wade-Giles": "yang"
+  },
+  {
+    "Pinyin": "yao",
+    "Wade-Giles": "yao"
+  },
+  {
+    "Pinyin": "ye",
+    "Wade-Giles": "yeh"
+  },
+  {
+    "Pinyin": "yi",
+    "Wade-Giles": "i"
+  },
+  {
+    "Pinyin": "yin",
+    "Wade-Giles": "yin"
+  },
+  {
+    "Pinyin": "ying",
+    "Wade-Giles": "ying"
+  },
+  {
+    "Pinyin": "yo",
+    "Wade-Giles": "yo"
+  },
+  {
+    "Pinyin": "yong",
+    "Wade-Giles": "yung"
+  },
+  {
+    "Pinyin": "you",
+    "Wade-Giles": "yu"
+  },
+  {
+    "Pinyin": "yu",
+    "Wade-Giles": "y\u00fc\u00a0"
+  },
+  {
+    "Pinyin": "yuan",
+    "Wade-Giles": "y\u00fcan\u00a0"
+  },
+  {
+    "Pinyin": "yue",
+    "Wade-Giles": "y\u00fceh\u00a0"
+  },
+  {
+    "Pinyin": "yun",
+    "Wade-Giles": "y\u00fcn\u00a0"
+  },
+  {
+    "Pinyin": "za",
+    "Wade-Giles": "tsa"
+  },
+  {
+    "Pinyin": "zai",
+    "Wade-Giles": "tsai"
+  },
+  {
+    "Pinyin": "zan",
+    "Wade-Giles": "tsan"
+  },
+  {
+    "Pinyin": "zang",
+    "Wade-Giles": "tsang"
+  },
+  {
+    "Pinyin": "zao",
+    "Wade-Giles": "tsao"
+  },
+  {
+    "Pinyin": "ze",
+    "Wade-Giles": "tse"
+  },
+  {
+    "Pinyin": "zei",
+    "Wade-Giles": "tsei"
+  },
+  {
+    "Pinyin": "zen",
+    "Wade-Giles": "tsen"
+  },
+  {
+    "Pinyin": "zeng",
+    "Wade-Giles": "tseng"
+  },
+  {
+    "Pinyin": "zha",
+    "Wade-Giles": "cha"
+  },
+  {
+    "Pinyin": "zhai",
+    "Wade-Giles": "chai"
+  },
+  {
+    "Pinyin": "zhan",
+    "Wade-Giles": "chan"
+  },
+  {
+    "Pinyin": "zhang",
+    "Wade-Giles": "chang"
+  },
+  {
+    "Pinyin": "zhao",
+    "Wade-Giles": "chao"
+  },
+  {
+    "Pinyin": "zhe",
+    "Wade-Giles": "che"
+  },
+  {
+    "Pinyin": "zhei",
+    "Wade-Giles": "chei"
+  },
+  {
+    "Pinyin": "zhen",
+    "Wade-Giles": "chen"
+  },
+  {
+    "Pinyin": "zheng",
+    "Wade-Giles": "cheng"
+  },
+  {
+    "Pinyin": "zhi",
+    "Wade-Giles": "chih"
+  },
+  {
+    "Pinyin": "zhong",
+    "Wade-Giles": "chung"
+  },
+  {
+    "Pinyin": "zhou",
+    "Wade-Giles": "chou"
+  },
+  {
+    "Pinyin": "zhu",
+    "Wade-Giles": "chu"
+  },
+  {
+    "Pinyin": "zhua",
+    "Wade-Giles": "chua"
+  },
+  {
+    "Pinyin": "zhuai",
+    "Wade-Giles": "chuai"
+  },
+  {
+    "Pinyin": "zhuan",
+    "Wade-Giles": "chuan"
+  },
+  {
+    "Pinyin": "zhuang",
+    "Wade-Giles": "chuang"
+  },
+  {
+    "Pinyin": "zhui",
+    "Wade-Giles": "chui"
+  },
+  {
+    "Pinyin": "zhun",
+    "Wade-Giles": "chun"
+  },
+  {
+    "Pinyin": "zhuo",
+    "Wade-Giles": "cho"
+  },
+  {
+    "Pinyin": "zi",
+    "Wade-Giles": "tzu"
+  },
+  {
+    "Pinyin": "zong",
+    "Wade-Giles": "tsung"
+  },
+  {
+    "Pinyin": "zou",
+    "Wade-Giles": "tsou"
+  },
+  {
+    "Pinyin": "zu",
+    "Wade-Giles": "tsu"
+  },
+  {
+    "Pinyin": "zuan",
+    "Wade-Giles": "tsuan"
+  },
+  {
+    "Pinyin": "zui",
+    "Wade-Giles": "tsui"
+  },
+  {
+    "Pinyin": "zun",
+    "Wade-Giles": "tsun"
+  },
+  {
+    "Pinyin": "zuo",
+    "Wade-Giles": "tso"
+  }
+]
