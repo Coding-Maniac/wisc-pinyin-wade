@@ -3,6 +3,7 @@ const obj = {
   wade: document.querySelector(".wade"),
   btnSearch: document.querySelector(".btn-search"),
   input: document.querySelector(".query"),
+  resultSpan: document.querySelector(".result"),
 };
 
 const toggleSearch = evt => {
@@ -19,21 +20,27 @@ const searchAlt = async () => {
 
   const queryArr = obj.input.value.split(" ");
 
-  if (obj.btnSearch.innerText === "Find Wade-Giles") {
-    queryArr.forEach(ele => {
-      data.forEach(item => {
-        item["Pinyin"] === ele && resultArr.push(item["Wade-Giles"]);
+  try {
+    if (obj.btnSearch.innerText === "Find Wade-Giles") {
+      queryArr.forEach(ele => {
+        data.forEach(item => {
+          item["Pinyin"] === ele && resultArr.push(item["Wade-Giles"]);
+        });
       });
-    });
-  } else if (obj.btnSearch.innerText === "Find Pinyin") {
-    queryArr.forEach(ele => {
-      data.forEach(item => {
-        item["Wade-Giles"] === ele && resultArr.push(item["Pinyin"]);
+    } else if (obj.btnSearch.innerText === "Find Pinyin") {
+      queryArr.forEach(ele => {
+        data.forEach(item => {
+          item["Wade-Giles"] === ele && resultArr.push(item["Pinyin"]);
+        });
       });
-    });
+    }
+  } catch (err) {
+    resultArr = err;
   }
 
-  console.log(resultArr);
+  resultArr.length !== 0
+    ? (obj.resultSpan.innerHTML = resultArr.join(" "))
+    : (obj.resultSpan.innerHTML = "Sorry, invalid result 🥲");
 };
 
 obj.pinyin.addEventListener("click", toggleSearch);
