@@ -35,7 +35,8 @@ const searchAlt = async () => {
       });
     }
   } catch (err) {
-    resultArr = err;
+    console.log(err);
+    throw err;
   }
 
   resultArr.length !== 0

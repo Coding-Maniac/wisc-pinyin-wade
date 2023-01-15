@@ -4,21 +4,41 @@
   padding: 0;
 }
 
-html {
-  background-color: #f8f4ea;
+.translator-container {
+  width: 50%;
+  height: 300px;
+  margin: 50px auto;
 }
 
-body {
-  background-color: #f8f4ea !important;
+.options-container {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* z-index: 1000; */
 }
 
-.input-group {
-  background-color: #fff;
-  width: 50% !important;
-  margin: 80px auto;
+.left-btn {
+  width: 250px;
 }
 
-.result-container {
-  width: 25% !important;
-  margin: 0 auto;
+.right-btn {
+  width: 250px;
+}
+
+.results-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.bi-arrow-left-right {
+  font-size: 30px;
+}
+
+.form-control {
+  vertical-align: top;
+  width: 300px;
+  height: 200px;
 }
