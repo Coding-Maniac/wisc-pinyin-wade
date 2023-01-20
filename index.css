@@ -37,6 +37,10 @@
   font-size: 30px;
 }
 
+.text-area::placeholder {
+  opacity: 70%;
+}
+
 .form-control {
   vertical-align: top;
   width: 300px;

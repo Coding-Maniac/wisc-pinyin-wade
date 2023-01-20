@@ -1,1638 +1,2998 @@
 [
   {
-    "Pinyin": "a",
-    "Wade-Giles": "a"
+    "Pinyin (input)": "a",
+    "Wade-Giles (output)": "a",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "a",
+    "Pinyin (output)": "a"
   },
   {
-    "Pinyin": "ai",
-    "Wade-Giles": "ai"
+    "Pinyin (input)": "ai",
+    "Wade-Giles (output)": "ai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ai",
+    "Pinyin (output)": "ai"
   },
   {
-    "Pinyin": "an",
-    "Wade-Giles": "an"
+    "Pinyin (input)": "an",
+    "Wade-Giles (output)": "an",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "an",
+    "Pinyin (output)": "an"
   },
   {
-    "Pinyin": "ang",
-    "Wade-Giles": "ang"
+    "Pinyin (input)": "ang",
+    "Wade-Giles (output)": "ang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ang",
+    "Pinyin (output)": "ang"
   },
   {
-    "Pinyin": "ao",
-    "Wade-Giles": "ao"
+    "Pinyin (input)": "ao",
+    "Wade-Giles (output)": "ao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ao",
+    "Pinyin (output)": "ao"
   },
   {
-    "Pinyin": "ba",
-    "Wade-Giles": "pa"
+    "Pinyin (input)": "ba",
+    "Wade-Giles (output)": "pa",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pa",
+    "Pinyin (output)": "ba"
   },
   {
-    "Pinyin": "bai",
-    "Wade-Giles": "pai"
+    "Pinyin (input)": "bai",
+    "Wade-Giles (output)": "pai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pai",
+    "Pinyin (output)": "bai"
   },
   {
-    "Pinyin": "ban",
-    "Wade-Giles": "pan"
+    "Pinyin (input)": "ban",
+    "Wade-Giles (output)": "pan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pan",
+    "Pinyin (output)": "ban"
   },
   {
-    "Pinyin": "bang",
-    "Wade-Giles": "pang"
+    "Pinyin (input)": "bang",
+    "Wade-Giles (output)": "pang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pang",
+    "Pinyin (output)": "bang"
   },
   {
-    "Pinyin": "bao",
-    "Wade-Giles": "pao"
+    "Pinyin (input)": "bao",
+    "Wade-Giles (output)": "pao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pao",
+    "Pinyin (output)": "bao"
   },
   {
-    "Pinyin": "bei",
-    "Wade-Giles": "pei"
+    "Pinyin (input)": "bei",
+    "Wade-Giles (output)": "pei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pei",
+    "Pinyin (output)": "bei"
   },
   {
-    "Pinyin": "ben",
-    "Wade-Giles": "pen"
+    "Pinyin (input)": "ben",
+    "Wade-Giles (output)": "pen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pen",
+    "Pinyin (output)": "ben"
   },
   {
-    "Pinyin": "beng",
-    "Wade-Giles": "peng"
+    "Pinyin (input)": "beng",
+    "Wade-Giles (output)": "peng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "peng",
+    "Pinyin (output)": "beng"
   },
   {
-    "Pinyin": "bi",
-    "Wade-Giles": "pi"
+    "Pinyin (input)": "bi",
+    "Wade-Giles (output)": "pi",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pi",
+    "Pinyin (output)": "bi"
   },
   {
-    "Pinyin": "bian",
-    "Wade-Giles": "pien"
+    "Pinyin (input)": "bian",
+    "Wade-Giles (output)": "pien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pien",
+    "Pinyin (output)": "bian"
   },
   {
-    "Pinyin": "biao",
-    "Wade-Giles": "piao"
+    "Pinyin (input)": "biao",
+    "Wade-Giles (output)": "piao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "piao",
+    "Pinyin (output)": "biao"
   },
   {
-    "Pinyin": "bie",
-    "Wade-Giles": "pieh"
+    "Pinyin (input)": "bie",
+    "Wade-Giles (output)": "pieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pieh",
+    "Pinyin (output)": "bie"
   },
   {
-    "Pinyin": "bin",
-    "Wade-Giles": "pin"
+    "Pinyin (input)": "bin",
+    "Wade-Giles (output)": "pin",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pin",
+    "Pinyin (output)": "bin"
   },
   {
-    "Pinyin": "bing",
-    "Wade-Giles": "ping"
+    "Pinyin (input)": "bing",
+    "Wade-Giles (output)": "ping",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ping",
+    "Pinyin (output)": "bing"
   },
   {
-    "Pinyin": "bo",
-    "Wade-Giles": "po"
+    "Pinyin (input)": "bo",
+    "Wade-Giles (output)": "po",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "po",
+    "Pinyin (output)": "bo"
   },
   {
-    "Pinyin": "bu",
-    "Wade-Giles": "pu"
+    "Pinyin (input)": "bu",
+    "Wade-Giles (output)": "pu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "pu",
+    "Pinyin (output)": "bu"
   },
   {
-    "Pinyin": "ca",
-    "Wade-Giles": "ts'a"
+    "Pinyin (input)": "ca",
+    "Wade-Giles (output)": "ts'a",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'a",
+    "Pinyin (output)": "ca"
   },
   {
-    "Pinyin": "cai",
-    "Wade-Giles": "ts'ai"
+    "Pinyin (input)": "cai",
+    "Wade-Giles (output)": "ts'ai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'ai",
+    "Pinyin (output)": "cai"
   },
   {
-    "Pinyin": "can",
-    "Wade-Giles": "ts'an"
+    "Pinyin (input)": "can",
+    "Wade-Giles (output)": "ts'an",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'an",
+    "Pinyin (output)": "can"
   },
   {
-    "Pinyin": "cang",
-    "Wade-Giles": "ts'ang"
+    "Pinyin (input)": "cang",
+    "Wade-Giles (output)": "ts'ang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'ang",
+    "Pinyin (output)": "cang"
   },
   {
-    "Pinyin": "cao",
-    "Wade-Giles": "ts'ao"
+    "Pinyin (input)": "cao",
+    "Wade-Giles (output)": "ts'ao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'ao",
+    "Pinyin (output)": "cao"
   },
   {
-    "Pinyin": "ce",
-    "Wade-Giles": "ts'e"
+    "Pinyin (input)": "ce",
+    "Wade-Giles (output)": "ts'e",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'e",
+    "Pinyin (output)": "ce"
   },
   {
-    "Pinyin": "cen",
-    "Wade-Giles": "ts'en"
+    "Pinyin (input)": "cen",
+    "Wade-Giles (output)": "ts'en",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'en",
+    "Pinyin (output)": "cen"
   },
   {
-    "Pinyin": "ceng",
-    "Wade-Giles": "ts'eng"
+    "Pinyin (input)": "ceng",
+    "Wade-Giles (output)": "ts'eng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'eng",
+    "Pinyin (output)": "ceng"
   },
   {
-    "Pinyin": "cha",
-    "Wade-Giles": "ch'a"
+    "Pinyin (input)": "cha",
+    "Wade-Giles (output)": "ch'a",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'a",
+    "Pinyin (output)": "cha"
   },
   {
-    "Pinyin": "chai",
-    "Wade-Giles": "ch'ai"
+    "Pinyin (input)": "chai",
+    "Wade-Giles (output)": "ch'ai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ai",
+    "Pinyin (output)": "chai"
   },
   {
-    "Pinyin": "chan",
-    "Wade-Giles": "ch'an"
+    "Pinyin (input)": "chan",
+    "Wade-Giles (output)": "ch'an",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'an",
+    "Pinyin (output)": "chan"
   },
   {
-    "Pinyin": "chang",
-    "Wade-Giles": "ch'ang"
+    "Pinyin (input)": "chang",
+    "Wade-Giles (output)": "ch'ang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ang",
+    "Pinyin (output)": "chang"
   },
   {
-    "Pinyin": "chao",
-    "Wade-Giles": "ch'ao"
+    "Pinyin (input)": "chao",
+    "Wade-Giles (output)": "ch'ao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ao",
+    "Pinyin (output)": "chao"
   },
   {
-    "Pinyin": "che",
-    "Wade-Giles": "ch'e"
+    "Pinyin (input)": "che",
+    "Wade-Giles (output)": "ch'e",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'e",
+    "Pinyin (output)": "che"
   },
   {
-    "Pinyin": "chen",
-    "Wade-Giles": "ch'en"
+    "Pinyin (input)": "chen",
+    "Wade-Giles (output)": "ch'en",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'en",
+    "Pinyin (output)": "chen"
   },
   {
-    "Pinyin": "cheng",
-    "Wade-Giles": "ch'eng"
+    "Pinyin (input)": "cheng",
+    "Wade-Giles (output)": "ch'eng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'eng",
+    "Pinyin (output)": "cheng"
   },
   {
-    "Pinyin": "chi",
-    "Wade-Giles": "ch'ih"
+    "Pinyin (input)": "chi",
+    "Wade-Giles (output)": "ch'ih",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ih",
+    "Pinyin (output)": "chi"
   },
   {
-    "Pinyin": "chong",
-    "Wade-Giles": "ch'ung"
+    "Pinyin (input)": "chong",
+    "Wade-Giles (output)": "ch'ung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ung",
+    "Pinyin (output)": "chong"
   },
   {
-    "Pinyin": "chou",
-    "Wade-Giles": "ch'ou"
+    "Pinyin (input)": "chou",
+    "Wade-Giles (output)": "ch'ou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ou",
+    "Pinyin (output)": "chou"
   },
   {
-    "Pinyin": "chu",
-    "Wade-Giles": "ch'u"
+    "Pinyin (input)": "chu",
+    "Wade-Giles (output)": "ch'u",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'u",
+    "Pinyin (output)": "chu"
   },
   {
-    "Pinyin": "chua",
-    "Wade-Giles": "ch'ua"
+    "Pinyin (input)": "chua",
+    "Wade-Giles (output)": "ch'ua",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ua",
+    "Pinyin (output)": "chua"
   },
   {
-    "Pinyin": "chuai",
-    "Wade-Giles": "ch'uai"
+    "Pinyin (input)": "chuai",
+    "Wade-Giles (output)": "ch'uai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'uai",
+    "Pinyin (output)": "chuai"
   },
   {
-    "Pinyin": "chuan",
-    "Wade-Giles": "ch'uan"
+    "Pinyin (input)": "chuan",
+    "Wade-Giles (output)": "ch'uan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'uan",
+    "Pinyin (output)": "chuan"
   },
   {
-    "Pinyin": "chuang",
-    "Wade-Giles": "ch'uang"
+    "Pinyin (input)": "chuang",
+    "Wade-Giles (output)": "ch'uang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'uang",
+    "Pinyin (output)": "chuang"
   },
   {
-    "Pinyin": "chui",
-    "Wade-Giles": "ch'ui"
+    "Pinyin (input)": "chui",
+    "Wade-Giles (output)": "ch'ui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ui",
+    "Pinyin (output)": "chui"
   },
   {
-    "Pinyin": "chun",
-    "Wade-Giles": "ch'un"
+    "Pinyin (input)": "chun",
+    "Wade-Giles (output)": "ch'un",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'un",
+    "Pinyin (output)": "chun"
   },
   {
-    "Pinyin": "chuo",
-    "Wade-Giles": "ch'o"
+    "Pinyin (input)": "chuo",
+    "Wade-Giles (output)": "ch'o",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'o",
+    "Pinyin (output)": "chuo"
   },
   {
-    "Pinyin": "ci",
-    "Wade-Giles": "tz'u"
+    "Pinyin (input)": "ci",
+    "Wade-Giles (output)": "tz'u",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tz'u",
+    "Pinyin (output)": "ci"
   },
   {
-    "Pinyin": "cong",
-    "Wade-Giles": "ts'ung"
+    "Pinyin (input)": "cong",
+    "Wade-Giles (output)": "ts'ung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'ung",
+    "Pinyin (output)": "cong"
   },
   {
-    "Pinyin": "cou",
-    "Wade-Giles": "ts'ou"
+    "Pinyin (input)": "cou",
+    "Wade-Giles (output)": "ts'ou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'ou",
+    "Pinyin (output)": "cou"
   },
   {
-    "Pinyin": "cu",
-    "Wade-Giles": "ts'u"
+    "Pinyin (input)": "cu",
+    "Wade-Giles (output)": "ts'u",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'u",
+    "Pinyin (output)": "cu"
   },
   {
-    "Pinyin": "cuan",
-    "Wade-Giles": "ts'uan"
+    "Pinyin (input)": "cuan",
+    "Wade-Giles (output)": "ts'uan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'uan",
+    "Pinyin (output)": "cuan"
   },
   {
-    "Pinyin": "cui",
-    "Wade-Giles": "ts'ui"
+    "Pinyin (input)": "cui",
+    "Wade-Giles (output)": "ts'ui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'ui",
+    "Pinyin (output)": "cui"
   },
   {
-    "Pinyin": "cun",
-    "Wade-Giles": "ts'un"
+    "Pinyin (input)": "cun",
+    "Wade-Giles (output)": "ts'un",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'un",
+    "Pinyin (output)": "cun"
   },
   {
-    "Pinyin": "cuo",
-    "Wade-Giles": "ts'o"
+    "Pinyin (input)": "cuo",
+    "Wade-Giles (output)": "ts'o",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ts'o",
+    "Pinyin (output)": "cuo"
   },
   {
-    "Pinyin": "da",
-    "Wade-Giles": "ta"
+    "Pinyin (input)": "da",
+    "Wade-Giles (output)": "ta",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ta",
+    "Pinyin (output)": "da"
   },
   {
-    "Pinyin": "dai",
-    "Wade-Giles": "tai"
+    "Pinyin (input)": "dai",
+    "Wade-Giles (output)": "tai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tai",
+    "Pinyin (output)": "dai"
   },
   {
-    "Pinyin": "dan",
-    "Wade-Giles": "tan"
+    "Pinyin (input)": "dan",
+    "Wade-Giles (output)": "tan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tan",
+    "Pinyin (output)": "dan"
   },
   {
-    "Pinyin": "dang",
-    "Wade-Giles": "tang"
+    "Pinyin (input)": "dang",
+    "Wade-Giles (output)": "tang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tang",
+    "Pinyin (output)": "dang"
   },
   {
-    "Pinyin": "dao",
-    "Wade-Giles": "tao"
+    "Pinyin (input)": "dao",
+    "Wade-Giles (output)": "tao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tao",
+    "Pinyin (output)": "dao"
   },
   {
-    "Pinyin": "de",
-    "Wade-Giles": "te"
+    "Pinyin (input)": "de",
+    "Wade-Giles (output)": "te",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "te",
+    "Pinyin (output)": "de"
   },
   {
-    "Pinyin": "dei",
-    "Wade-Giles": "tei"
+    "Pinyin (input)": "dei",
+    "Wade-Giles (output)": "tei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tei",
+    "Pinyin (output)": "dei"
   },
   {
-    "Pinyin": "den",
-    "Wade-Giles": "tun"
+    "Pinyin (input)": "den",
+    "Wade-Giles (output)": "tun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tun",
+    "Pinyin (output)": "den"
   },
   {
-    "Pinyin": "deng",
-    "Wade-Giles": "teng"
+    "Pinyin (input)": "deng",
+    "Wade-Giles (output)": "teng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "teng",
+    "Pinyin (output)": "deng"
   },
   {
-    "Pinyin": "di",
-    "Wade-Giles": "ti"
+    "Pinyin (input)": "di",
+    "Wade-Giles (output)": "ti",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ti",
+    "Pinyin (output)": "di"
   },
   {
-    "Pinyin": "dian",
-    "Wade-Giles": "tien"
+    "Pinyin (input)": "dian",
+    "Wade-Giles (output)": "tien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tien",
+    "Pinyin (output)": "dian"
   },
   {
-    "Pinyin": "diao",
-    "Wade-Giles": "tiao"
+    "Pinyin (input)": "diao",
+    "Wade-Giles (output)": "tiao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tiao",
+    "Pinyin (output)": "diao"
   },
   {
-    "Pinyin": "die",
-    "Wade-Giles": "tieh"
+    "Pinyin (input)": "die",
+    "Wade-Giles (output)": "tieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tieh",
+    "Pinyin (output)": "die"
   },
   {
-    "Pinyin": "ding",
-    "Wade-Giles": "ting"
+    "Pinyin (input)": "ding",
+    "Wade-Giles (output)": "ting",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ting",
+    "Pinyin (output)": "ding"
   },
   {
-    "Pinyin": "diu",
-    "Wade-Giles": "tiu"
+    "Pinyin (input)": "diu",
+    "Wade-Giles (output)": "tiu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tiu",
+    "Pinyin (output)": "diu"
   },
   {
-    "Pinyin": "dong",
-    "Wade-Giles": "tung"
+    "Pinyin (input)": "dong",
+    "Wade-Giles (output)": "tung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tung",
+    "Pinyin (output)": "dong"
   },
   {
-    "Pinyin": "du",
-    "Wade-Giles": "tu"
+    "Pinyin (input)": "du",
+    "Wade-Giles (output)": "tu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tu",
+    "Pinyin (output)": "du"
   },
   {
-    "Pinyin": "duan",
-    "Wade-Giles": "tuan"
+    "Pinyin (input)": "duan",
+    "Wade-Giles (output)": "tuan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tuan",
+    "Pinyin (output)": "duan"
   },
   {
-    "Pinyin": "dui",
-    "Wade-Giles": "tui"
+    "Pinyin (input)": "dui",
+    "Wade-Giles (output)": "tui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tui",
+    "Pinyin (output)": "dui"
   },
   {
-    "Pinyin": "dun",
-    "Wade-Giles": "tun"
+    "Pinyin (input)": "dun",
+    "Wade-Giles (output)": "tun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tun",
+    "Pinyin (output)": "dun"
   },
   {
-    "Pinyin": "duo",
-    "Wade-Giles": "to"
+    "Pinyin (input)": "duo",
+    "Wade-Giles (output)": "to",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "to",
+    "Pinyin (output)": "duo"
   },
   {
-    "Pinyin": "e",
-    "Wade-Giles": "o"
+    "Pinyin (input)": "e",
+    "Wade-Giles (output)": "o",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "o",
+    "Pinyin (output)": "e"
   },
   {
-    "Pinyin": "e",
-    "Wade-Giles": "e"
+    "Pinyin (input)": "e",
+    "Wade-Giles (output)": "e",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "e",
+    "Pinyin (output)": "e"
   },
   {
-    "Pinyin": "e",
-    "Wade-Giles": "eh"
+    "Pinyin (input)": "e",
+    "Wade-Giles (output)": "eh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "eh",
+    "Pinyin (output)": "e"
   },
   {
-    "Pinyin": "en",
-    "Wade-Giles": "en"
+    "Pinyin (input)": "en",
+    "Wade-Giles (output)": "en",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "en",
+    "Pinyin (output)": "en"
   },
   {
-    "Pinyin": "er",
-    "Wade-Giles": "erh"
+    "Pinyin (input)": "er",
+    "Wade-Giles (output)": "erh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "erh",
+    "Pinyin (output)": "er"
   },
   {
-    "Pinyin": "fa",
-    "Wade-Giles": "fa"
+    "Pinyin (input)": "fa",
+    "Wade-Giles (output)": "fa",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "fa",
+    "Pinyin (output)": "fa"
   },
   {
-    "Pinyin": "fan",
-    "Wade-Giles": "fan"
+    "Pinyin (input)": "fan",
+    "Wade-Giles (output)": "fan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "fan",
+    "Pinyin (output)": "fan"
   },
   {
-    "Pinyin": "fang",
-    "Wade-Giles": "fang"
+    "Pinyin (input)": "fang",
+    "Wade-Giles (output)": "fang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "fang",
+    "Pinyin (output)": "fang"
   },
   {
-    "Pinyin": "fei",
-    "Wade-Giles": "fei"
+    "Pinyin (input)": "fei",
+    "Wade-Giles (output)": "fei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "fei",
+    "Pinyin (output)": "fei"
   },
   {
-    "Pinyin": "fen",
-    "Wade-Giles": "fen"
+    "Pinyin (input)": "fen",
+    "Wade-Giles (output)": "fen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "fen",
+    "Pinyin (output)": "fen"
   },
   {
-    "Pinyin": "feng",
-    "Wade-Giles": "feng"
+    "Pinyin (input)": "feng",
+    "Wade-Giles (output)": "feng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "feng",
+    "Pinyin (output)": "feng"
   },
   {
-    "Pinyin": "fo",
-    "Wade-Giles": "fo"
+    "Pinyin (input)": "fo",
+    "Wade-Giles (output)": "fo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "fo",
+    "Pinyin (output)": "fo"
   },
   {
-    "Pinyin": "fou",
-    "Wade-Giles": "fou"
+    "Pinyin (input)": "fou",
+    "Wade-Giles (output)": "fou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "fou",
+    "Pinyin (output)": "fou"
   },
   {
-    "Pinyin": "fu",
-    "Wade-Giles": "fu"
+    "Pinyin (input)": "fu",
+    "Wade-Giles (output)": "fu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "fu",
+    "Pinyin (output)": "fu"
   },
   {
-    "Pinyin": "ga",
-    "Wade-Giles": "ka"
+    "Pinyin (input)": "ga",
+    "Wade-Giles (output)": "ka",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ka",
+    "Pinyin (output)": "ga"
   },
   {
-    "Pinyin": "gai",
-    "Wade-Giles": "kai"
+    "Pinyin (input)": "gai",
+    "Wade-Giles (output)": "kai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kai",
+    "Pinyin (output)": "gai"
   },
   {
-    "Pinyin": "gan",
-    "Wade-Giles": "kan"
+    "Pinyin (input)": "gan",
+    "Wade-Giles (output)": "kan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kan",
+    "Pinyin (output)": "gan"
   },
   {
-    "Pinyin": "gang",
-    "Wade-Giles": "kang"
+    "Pinyin (input)": "gang",
+    "Wade-Giles (output)": "kang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kang",
+    "Pinyin (output)": "gang"
   },
   {
-    "Pinyin": "gao",
-    "Wade-Giles": "kao"
+    "Pinyin (input)": "gao",
+    "Wade-Giles (output)": "kao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kao",
+    "Pinyin (output)": "gao"
   },
   {
-    "Pinyin": "ge",
-    "Wade-Giles": "ko"
+    "Pinyin (input)": "ge",
+    "Wade-Giles (output)": "ko",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ko",
+    "Pinyin (output)": "ge"
   },
   {
-    "Pinyin": "gei",
-    "Wade-Giles": "kei"
+    "Pinyin (input)": "gei",
+    "Wade-Giles (output)": "kei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kei",
+    "Pinyin (output)": "gei"
   },
   {
-    "Pinyin": "gen",
-    "Wade-Giles": "ken"
+    "Pinyin (input)": "gen",
+    "Wade-Giles (output)": "ken",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ken",
+    "Pinyin (output)": "gen"
   },
   {
-    "Pinyin": "geng",
-    "Wade-Giles": "keng"
+    "Pinyin (input)": "geng",
+    "Wade-Giles (output)": "keng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "keng",
+    "Pinyin (output)": "geng"
   },
   {
-    "Pinyin": "gong",
-    "Wade-Giles": "kung"
+    "Pinyin (input)": "gong",
+    "Wade-Giles (output)": "kung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kung",
+    "Pinyin (output)": "gong"
   },
   {
-    "Pinyin": "gou",
-    "Wade-Giles": "kou"
+    "Pinyin (input)": "gou",
+    "Wade-Giles (output)": "kou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kou",
+    "Pinyin (output)": "gou"
   },
   {
-    "Pinyin": "gu",
-    "Wade-Giles": "ku"
+    "Pinyin (input)": "gu",
+    "Wade-Giles (output)": "ku",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ku",
+    "Pinyin (output)": "gu"
   },
   {
-    "Pinyin": "gua",
-    "Wade-Giles": "kua"
+    "Pinyin (input)": "gua",
+    "Wade-Giles (output)": "kua",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kua",
+    "Pinyin (output)": "gua"
   },
   {
-    "Pinyin": "guai",
-    "Wade-Giles": "kuai"
+    "Pinyin (input)": "guai",
+    "Wade-Giles (output)": "kuai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kuai",
+    "Pinyin (output)": "guai"
   },
   {
-    "Pinyin": "guan",
-    "Wade-Giles": "kuan"
+    "Pinyin (input)": "guan",
+    "Wade-Giles (output)": "kuan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kuan",
+    "Pinyin (output)": "guan"
   },
   {
-    "Pinyin": "guang",
-    "Wade-Giles": "kuang"
+    "Pinyin (input)": "guang",
+    "Wade-Giles (output)": "kuang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kuang",
+    "Pinyin (output)": "guang"
   },
   {
-    "Pinyin": "gui",
-    "Wade-Giles": "kuei"
+    "Pinyin (input)": "gui",
+    "Wade-Giles (output)": "kuei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kuei",
+    "Pinyin (output)": "gui"
   },
   {
-    "Pinyin": "gun",
-    "Wade-Giles": "kun"
+    "Pinyin (input)": "gun",
+    "Wade-Giles (output)": "kun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kun",
+    "Pinyin (output)": "gun"
   },
   {
-    "Pinyin": "guo",
-    "Wade-Giles": "kuo"
+    "Pinyin (input)": "guo",
+    "Wade-Giles (output)": "kuo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "kuo",
+    "Pinyin (output)": "guo"
   },
   {
-    "Pinyin": "ha",
-    "Wade-Giles": "ha"
+    "Pinyin (input)": "ha",
+    "Wade-Giles (output)": "ha",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ha",
+    "Pinyin (output)": "ha"
   },
   {
-    "Pinyin": "hai",
-    "Wade-Giles": "hai"
+    "Pinyin (input)": "hai",
+    "Wade-Giles (output)": "hai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hai",
+    "Pinyin (output)": "hai"
   },
   {
-    "Pinyin": "han",
-    "Wade-Giles": "han"
+    "Pinyin (input)": "han",
+    "Wade-Giles (output)": "han",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "han",
+    "Pinyin (output)": "han"
   },
   {
-    "Pinyin": "hang",
-    "Wade-Giles": "hang"
+    "Pinyin (input)": "hang",
+    "Wade-Giles (output)": "hang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hang",
+    "Pinyin (output)": "hang"
   },
   {
-    "Pinyin": "hao",
-    "Wade-Giles": "hao"
+    "Pinyin (input)": "hao",
+    "Wade-Giles (output)": "hao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hao",
+    "Pinyin (output)": "hao"
   },
   {
-    "Pinyin": "he",
-    "Wade-Giles": "ho"
+    "Pinyin (input)": "he",
+    "Wade-Giles (output)": "ho",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ho",
+    "Pinyin (output)": "he"
   },
   {
-    "Pinyin": "hei",
-    "Wade-Giles": "hei"
+    "Pinyin (input)": "hei",
+    "Wade-Giles (output)": "hei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hei",
+    "Pinyin (output)": "hei"
   },
   {
-    "Pinyin": "hen",
-    "Wade-Giles": "hen"
+    "Pinyin (input)": "hen",
+    "Wade-Giles (output)": "hen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hen",
+    "Pinyin (output)": "hen"
   },
   {
-    "Pinyin": "heng",
-    "Wade-Giles": "heng"
+    "Pinyin (input)": "heng",
+    "Wade-Giles (output)": "heng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "heng",
+    "Pinyin (output)": "heng"
   },
   {
-    "Pinyin": "hong",
-    "Wade-Giles": "hung"
+    "Pinyin (input)": "hong",
+    "Wade-Giles (output)": "hung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hung",
+    "Pinyin (output)": "hong"
   },
   {
-    "Pinyin": "hou",
-    "Wade-Giles": "hou"
+    "Pinyin (input)": "hou",
+    "Wade-Giles (output)": "hou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hou",
+    "Pinyin (output)": "hou"
   },
   {
-    "Pinyin": "hu",
-    "Wade-Giles": "hu"
+    "Pinyin (input)": "hu",
+    "Wade-Giles (output)": "hu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hu",
+    "Pinyin (output)": "hu"
   },
   {
-    "Pinyin": "hua",
-    "Wade-Giles": "hua"
+    "Pinyin (input)": "hua",
+    "Wade-Giles (output)": "hua",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hua",
+    "Pinyin (output)": "hua"
   },
   {
-    "Pinyin": "huai",
-    "Wade-Giles": "huai"
+    "Pinyin (input)": "huai",
+    "Wade-Giles (output)": "huai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "huai",
+    "Pinyin (output)": "huai"
   },
   {
-    "Pinyin": "huan",
-    "Wade-Giles": "huan"
+    "Pinyin (input)": "huan",
+    "Wade-Giles (output)": "huan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "huan",
+    "Pinyin (output)": "huan"
   },
   {
-    "Pinyin": "huang",
-    "Wade-Giles": "huang"
+    "Pinyin (input)": "huang",
+    "Wade-Giles (output)": "huang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "huang",
+    "Pinyin (output)": "huang"
   },
   {
-    "Pinyin": "hui",
-    "Wade-Giles": "hui"
+    "Pinyin (input)": "hui",
+    "Wade-Giles (output)": "hui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hui",
+    "Pinyin (output)": "hui"
   },
   {
-    "Pinyin": "hun",
-    "Wade-Giles": "hun"
+    "Pinyin (input)": "hun",
+    "Wade-Giles (output)": "hun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hun",
+    "Pinyin (output)": "hun"
   },
   {
-    "Pinyin": "huo",
-    "Wade-Giles": "huo"
+    "Pinyin (input)": "huo",
+    "Wade-Giles (output)": "huo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "huo",
+    "Pinyin (output)": "huo"
   },
   {
-    "Pinyin": "ji",
-    "Wade-Giles": "chi"
+    "Pinyin (input)": "ji",
+    "Wade-Giles (output)": "chi",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chi",
+    "Pinyin (output)": "ji"
   },
   {
-    "Pinyin": "Jia",
-    "Wade-Giles": "chia"
+    "Pinyin (input)": "Jia",
+    "Wade-Giles (output)": "chia",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chia",
+    "Pinyin (output)": "Jia"
   },
   {
-    "Pinyin": "jian",
-    "Wade-Giles": "chien"
+    "Pinyin (input)": "jian",
+    "Wade-Giles (output)": "chien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chien",
+    "Pinyin (output)": "jian"
   },
   {
-    "Pinyin": "jiang",
-    "Wade-Giles": "chiang"
+    "Pinyin (input)": "jiang",
+    "Wade-Giles (output)": "chiang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chiang",
+    "Pinyin (output)": "jiang"
   },
   {
-    "Pinyin": "jiao",
-    "Wade-Giles": "chiao"
+    "Pinyin (input)": "jiao",
+    "Wade-Giles (output)": "chiao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chiao",
+    "Pinyin (output)": "jiao"
   },
   {
-    "Pinyin": "jie",
-    "Wade-Giles": "chieh"
+    "Pinyin (input)": "jie",
+    "Wade-Giles (output)": "chieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chieh",
+    "Pinyin (output)": "jie"
   },
   {
-    "Pinyin": "jin",
-    "Wade-Giles": "chin"
+    "Pinyin (input)": "jin",
+    "Wade-Giles (output)": "chin",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chin",
+    "Pinyin (output)": "jin"
   },
   {
-    "Pinyin": "jing",
-    "Wade-Giles": "ching"
+    "Pinyin (input)": "jing",
+    "Wade-Giles (output)": "ching",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ching",
+    "Pinyin (output)": "jing"
   },
   {
-    "Pinyin": "jiong",
-    "Wade-Giles": "chiung"
+    "Pinyin (input)": "jiong",
+    "Wade-Giles (output)": "chiung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chiung",
+    "Pinyin (output)": "jiong"
   },
   {
-    "Pinyin": "jiu",
-    "Wade-Giles": "chiu"
+    "Pinyin (input)": "jiu",
+    "Wade-Giles (output)": "chiu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chiu",
+    "Pinyin (output)": "jiu"
   },
   {
-    "Pinyin": "ju",
-    "Wade-Giles": "ch\u00fc\u00a0"
+    "Pinyin (input)": "ju",
+    "Wade-Giles (output)": "ch\u00fc\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch\u00fc\u00a0",
+    "Pinyin (output)": "ju"
   },
   {
-    "Pinyin": "juan",
-    "Wade-Giles": "ch\u00fcan\u00a0"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chu",
+    "Pinyin (output)": "ju"
   },
   {
-    "Pinyin": "jue",
-    "Wade-Giles": "ch\u00fceh\u00a0"
+    "Pinyin (input)": "juan",
+    "Wade-Giles (output)": "ch\u00fcan\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch\u00fcan\u00a0",
+    "Pinyin (output)": "juan"
   },
   {
-    "Pinyin": "jun",
-    "Wade-Giles": "ch\u00fcn\u00a0"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chuan",
+    "Pinyin (output)": "juan"
   },
   {
-    "Pinyin": "ka",
-    "Wade-Giles": "k'a"
+    "Pinyin (input)": "jue",
+    "Wade-Giles (output)": "ch\u00fceh\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch\u00fceh\u00a0",
+    "Pinyin (output)": "jue"
   },
   {
-    "Pinyin": "kai",
-    "Wade-Giles": "k'ai"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chueh",
+    "Pinyin (output)": "jue"
   },
   {
-    "Pinyin": "kan",
-    "Wade-Giles": "k'an"
+    "Pinyin (input)": "jun",
+    "Wade-Giles (output)": "ch\u00fcn\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch\u00fcn\u00a0",
+    "Pinyin (output)": "jun"
   },
   {
-    "Pinyin": "kang",
-    "Wade-Giles": "k'ang"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chun",
+    "Pinyin (output)": "jun"
   },
   {
-    "Pinyin": "kao",
-    "Wade-Giles": "k'ao"
+    "Pinyin (input)": "ka",
+    "Wade-Giles (output)": "k'a",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'a",
+    "Pinyin (output)": "ka"
   },
   {
-    "Pinyin": "ke",
-    "Wade-Giles": "k'o"
+    "Pinyin (input)": "kai",
+    "Wade-Giles (output)": "k'ai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'ai",
+    "Pinyin (output)": "kai"
   },
   {
-    "Pinyin": "kei",
-    "Wade-Giles": "k'o"
+    "Pinyin (input)": "kan",
+    "Wade-Giles (output)": "k'an",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'an",
+    "Pinyin (output)": "kan"
   },
   {
-    "Pinyin": "ken",
-    "Wade-Giles": "k'en"
+    "Pinyin (input)": "kang",
+    "Wade-Giles (output)": "k'ang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'ang",
+    "Pinyin (output)": "kang"
   },
   {
-    "Pinyin": "keng",
-    "Wade-Giles": "k'eng"
+    "Pinyin (input)": "kao",
+    "Wade-Giles (output)": "k'ao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'ao",
+    "Pinyin (output)": "kao"
   },
   {
-    "Pinyin": "kong",
-    "Wade-Giles": "k'ung"
+    "Pinyin (input)": "ke",
+    "Wade-Giles (output)": "k'o",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'o",
+    "Pinyin (output)": "ke"
   },
   {
-    "Pinyin": "kou",
-    "Wade-Giles": "k'ou"
+    "Pinyin (input)": "kei",
+    "Wade-Giles (output)": "k'o",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'o",
+    "Pinyin (output)": "kei"
   },
   {
-    "Pinyin": "ku",
-    "Wade-Giles": "k'u"
+    "Pinyin (input)": "ken",
+    "Wade-Giles (output)": "k'en",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'en",
+    "Pinyin (output)": "ken"
   },
   {
-    "Pinyin": "kua",
-    "Wade-Giles": "k'ua"
+    "Pinyin (input)": "keng",
+    "Wade-Giles (output)": "k'eng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'eng",
+    "Pinyin (output)": "keng"
   },
   {
-    "Pinyin": "kuai",
-    "Wade-Giles": "k'uai"
+    "Pinyin (input)": "kong",
+    "Wade-Giles (output)": "k'ung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'ung",
+    "Pinyin (output)": "kong"
   },
   {
-    "Pinyin": "kuan",
-    "Wade-Giles": "k'uan"
+    "Pinyin (input)": "kou",
+    "Wade-Giles (output)": "k'ou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'ou",
+    "Pinyin (output)": "kou"
   },
   {
-    "Pinyin": "kuang",
-    "Wade-Giles": "k'uang"
+    "Pinyin (input)": "ku",
+    "Wade-Giles (output)": "k'u",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'u",
+    "Pinyin (output)": "ku"
   },
   {
-    "Pinyin": "kui",
-    "Wade-Giles": "k'uei"
+    "Pinyin (input)": "kua",
+    "Wade-Giles (output)": "k'ua",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'ua",
+    "Pinyin (output)": "kua"
   },
   {
-    "Pinyin": "kun",
-    "Wade-Giles": "k'un"
+    "Pinyin (input)": "kuai",
+    "Wade-Giles (output)": "k'uai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'uai",
+    "Pinyin (output)": "kuai"
   },
   {
-    "Pinyin": "kuo",
-    "Wade-Giles": "k'uo"
+    "Pinyin (input)": "kuan",
+    "Wade-Giles (output)": "k'uan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'uan",
+    "Pinyin (output)": "kuan"
   },
   {
-    "Pinyin": "la",
-    "Wade-Giles": "la"
+    "Pinyin (input)": "kuang",
+    "Wade-Giles (output)": "k'uang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'uang",
+    "Pinyin (output)": "kuang"
   },
   {
-    "Pinyin": "lai",
-    "Wade-Giles": "lai"
+    "Pinyin (input)": "kui",
+    "Wade-Giles (output)": "k'uei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'uei",
+    "Pinyin (output)": "kui"
   },
   {
-    "Pinyin": "lan",
-    "Wade-Giles": "lan"
+    "Pinyin (input)": "kun",
+    "Wade-Giles (output)": "k'un",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'un",
+    "Pinyin (output)": "kun"
   },
   {
-    "Pinyin": "lang",
-    "Wade-Giles": "lang"
+    "Pinyin (input)": "kuo",
+    "Wade-Giles (output)": "k'uo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "k'uo",
+    "Pinyin (output)": "kuo"
   },
   {
-    "Pinyin": "lao",
-    "Wade-Giles": "lao"
+    "Pinyin (input)": "la",
+    "Wade-Giles (output)": "la",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "la",
+    "Pinyin (output)": "la"
   },
   {
-    "Pinyin": "le",
-    "Wade-Giles": "le"
+    "Pinyin (input)": "lai",
+    "Wade-Giles (output)": "lai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lai",
+    "Pinyin (output)": "lai"
   },
   {
-    "Pinyin": "lei",
-    "Wade-Giles": "lei"
+    "Pinyin (input)": "lan",
+    "Wade-Giles (output)": "lan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lan",
+    "Pinyin (output)": "lan"
   },
   {
-    "Pinyin": "leng",
-    "Wade-Giles": "leng"
+    "Pinyin (input)": "lang",
+    "Wade-Giles (output)": "lang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lang",
+    "Pinyin (output)": "lang"
   },
   {
-    "Pinyin": "li",
-    "Wade-Giles": "li"
+    "Pinyin (input)": "lao",
+    "Wade-Giles (output)": "lao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lao",
+    "Pinyin (output)": "lao"
   },
   {
-    "Pinyin": "lia",
-    "Wade-Giles": "lia"
+    "Pinyin (input)": "le",
+    "Wade-Giles (output)": "le",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "le",
+    "Pinyin (output)": "le"
   },
   {
-    "Pinyin": "lian",
-    "Wade-Giles": "lien"
+    "Pinyin (input)": "lei",
+    "Wade-Giles (output)": "lei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lei",
+    "Pinyin (output)": "lei"
   },
   {
-    "Pinyin": "liang",
-    "Wade-Giles": "liang"
+    "Pinyin (input)": "leng",
+    "Wade-Giles (output)": "leng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "leng",
+    "Pinyin (output)": "leng"
   },
   {
-    "Pinyin": "liao",
-    "Wade-Giles": "liao"
+    "Pinyin (input)": "li",
+    "Wade-Giles (output)": "li",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "li",
+    "Pinyin (output)": "li"
   },
   {
-    "Pinyin": "lie",
-    "Wade-Giles": "lieh"
+    "Pinyin (input)": "lia",
+    "Wade-Giles (output)": "lia",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lia",
+    "Pinyin (output)": "lia"
   },
   {
-    "Pinyin": "lin",
-    "Wade-Giles": "lin"
+    "Pinyin (input)": "lian",
+    "Wade-Giles (output)": "lien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lien",
+    "Pinyin (output)": "lian"
   },
   {
-    "Pinyin": "ling",
-    "Wade-Giles": "ling"
+    "Pinyin (input)": "liang",
+    "Wade-Giles (output)": "liang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "liang",
+    "Pinyin (output)": "liang"
   },
   {
-    "Pinyin": "liu",
-    "Wade-Giles": "liu"
+    "Pinyin (input)": "liao",
+    "Wade-Giles (output)": "liao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "liao",
+    "Pinyin (output)": "liao"
   },
   {
-    "Pinyin": "lo",
-    "Wade-Giles": "lo"
+    "Pinyin (input)": "lie",
+    "Wade-Giles (output)": "lieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lieh",
+    "Pinyin (output)": "lie"
   },
   {
-    "Pinyin": "long",
-    "Wade-Giles": "lung"
+    "Pinyin (input)": "lin",
+    "Wade-Giles (output)": "lin",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lin",
+    "Pinyin (output)": "lin"
   },
   {
-    "Pinyin": "lou",
-    "Wade-Giles": "lou"
+    "Pinyin (input)": "ling",
+    "Wade-Giles (output)": "ling",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ling",
+    "Pinyin (output)": "ling"
   },
   {
-    "Pinyin": "lu",
-    "Wade-Giles": "lu"
+    "Pinyin (input)": "liu",
+    "Wade-Giles (output)": "liu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "liu",
+    "Pinyin (output)": "liu"
   },
   {
-    "Pinyin": "l\u00fc\u00a0",
-    "Wade-Giles": "l\u00fc\u00a0"
+    "Pinyin (input)": "lo",
+    "Wade-Giles (output)": "lo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lo",
+    "Pinyin (output)": "lo"
   },
   {
-    "Pinyin": "l\u00fce\u00a0",
-    "Wade-Giles": "l\u00fceh\u00a0"
+    "Pinyin (input)": "long",
+    "Wade-Giles (output)": "lung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lung",
+    "Pinyin (output)": "long"
   },
   {
-    "Pinyin": "luan",
-    "Wade-Giles": "luan"
+    "Pinyin (input)": "lou",
+    "Wade-Giles (output)": "lou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lou",
+    "Pinyin (output)": "lou"
   },
   {
-    "Pinyin": "lun",
-    "Wade-Giles": "lun"
+    "Pinyin (input)": "lu",
+    "Wade-Giles (output)": "lu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lu",
+    "Pinyin (output)": "lu"
   },
   {
-    "Pinyin": "luo",
-    "Wade-Giles": "lo"
+    "Pinyin (input)": "l\u00fc\u00a0",
+    "Wade-Giles (output)": "l\u00fc\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "l\u00fc\u00a0",
+    "Pinyin (output)": "l\u00fc\u00a0"
   },
   {
-    "Pinyin": "ma",
-    "Wade-Giles": "ma"
+    "Pinyin (input)": "lv",
+    "Wade-Giles (output)": "l\u00fc\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lu",
+    "Pinyin (output)": "l\u00fc\u00a0"
   },
   {
-    "Pinyin": "mai",
-    "Wade-Giles": "mai"
+    "Pinyin (input)": "l\u00fce\u00a0",
+    "Wade-Giles (output)": "l\u00fceh\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "l\u00fceh\u00a0",
+    "Pinyin (output)": "l\u00fce\u00a0"
   },
   {
-    "Pinyin": "man",
-    "Wade-Giles": "man"
+    "Pinyin (input)": "lve",
+    "Wade-Giles (output)": "l\u00fceh\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lueh",
+    "Pinyin (output)": "l\u00fce\u00a0"
   },
   {
-    "Pinyin": "mang",
-    "Wade-Giles": "mang"
+    "Pinyin (input)": "luan",
+    "Wade-Giles (output)": "luan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "luan",
+    "Pinyin (output)": "luan"
   },
   {
-    "Pinyin": "mao",
-    "Wade-Giles": "mao"
+    "Pinyin (input)": "lun",
+    "Wade-Giles (output)": "lun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lun",
+    "Pinyin (output)": "lun"
   },
   {
-    "Pinyin": "me",
-    "Wade-Giles": "me"
+    "Pinyin (input)": "luo",
+    "Wade-Giles (output)": "lo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "lo",
+    "Pinyin (output)": "luo"
   },
   {
-    "Pinyin": "mei",
-    "Wade-Giles": "mei"
+    "Pinyin (input)": "ma",
+    "Wade-Giles (output)": "ma",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ma",
+    "Pinyin (output)": "ma"
   },
   {
-    "Pinyin": "men",
-    "Wade-Giles": "men"
+    "Pinyin (input)": "mai",
+    "Wade-Giles (output)": "mai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mai",
+    "Pinyin (output)": "mai"
   },
   {
-    "Pinyin": "mi",
-    "Wade-Giles": "mi"
+    "Pinyin (input)": "man",
+    "Wade-Giles (output)": "man",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "man",
+    "Pinyin (output)": "man"
   },
   {
-    "Pinyin": "mian",
-    "Wade-Giles": "mien"
+    "Pinyin (input)": "mang",
+    "Wade-Giles (output)": "mang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mang",
+    "Pinyin (output)": "mang"
   },
   {
-    "Pinyin": "miao",
-    "Wade-Giles": "miao"
+    "Pinyin (input)": "mao",
+    "Wade-Giles (output)": "mao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mao",
+    "Pinyin (output)": "mao"
   },
   {
-    "Pinyin": "mie",
-    "Wade-Giles": "mieh"
+    "Pinyin (input)": "me",
+    "Wade-Giles (output)": "me",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "me",
+    "Pinyin (output)": "me"
   },
   {
-    "Pinyin": "min",
-    "Wade-Giles": "min"
+    "Pinyin (input)": "mei",
+    "Wade-Giles (output)": "mei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mei",
+    "Pinyin (output)": "mei"
   },
   {
-    "Pinyin": "ming",
-    "Wade-Giles": "ming"
+    "Pinyin (input)": "men",
+    "Wade-Giles (output)": "men",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "men",
+    "Pinyin (output)": "men"
   },
   {
-    "Pinyin": "miu",
-    "Wade-Giles": "miu"
+    "Pinyin (input)": "mi",
+    "Wade-Giles (output)": "mi",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mi",
+    "Pinyin (output)": "mi"
   },
   {
-    "Pinyin": "mo",
-    "Wade-Giles": "mo"
+    "Pinyin (input)": "mian",
+    "Wade-Giles (output)": "mien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mien",
+    "Pinyin (output)": "mian"
   },
   {
-    "Pinyin": "mou",
-    "Wade-Giles": "mou"
+    "Pinyin (input)": "miao",
+    "Wade-Giles (output)": "miao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "miao",
+    "Pinyin (output)": "miao"
   },
   {
-    "Pinyin": "mu",
-    "Wade-Giles": "mu"
+    "Pinyin (input)": "mie",
+    "Wade-Giles (output)": "mieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mieh",
+    "Pinyin (output)": "mie"
   },
   {
-    "Pinyin": "na",
-    "Wade-Giles": "na"
+    "Pinyin (input)": "min",
+    "Wade-Giles (output)": "min",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "min",
+    "Pinyin (output)": "min"
   },
   {
-    "Pinyin": "nai",
-    "Wade-Giles": "nai"
+    "Pinyin (input)": "ming",
+    "Wade-Giles (output)": "ming",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ming",
+    "Pinyin (output)": "ming"
   },
   {
-    "Pinyin": null,
-    "Wade-Giles": null
+    "Pinyin (input)": "miu",
+    "Wade-Giles (output)": "miu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "miu",
+    "Pinyin (output)": "miu"
   },
   {
-    "Pinyin": "nang",
-    "Wade-Giles": "nang"
+    "Pinyin (input)": "mo",
+    "Wade-Giles (output)": "mo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mo",
+    "Pinyin (output)": "mo"
   },
   {
-    "Pinyin": "nao",
-    "Wade-Giles": "nao"
+    "Pinyin (input)": "mou",
+    "Wade-Giles (output)": "mou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mou",
+    "Pinyin (output)": "mou"
   },
   {
-    "Pinyin": "ne",
-    "Wade-Giles": "ne"
+    "Pinyin (input)": "mu",
+    "Wade-Giles (output)": "mu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "mu",
+    "Pinyin (output)": "mu"
   },
   {
-    "Pinyin": "nei",
-    "Wade-Giles": "nei"
+    "Pinyin (input)": "na",
+    "Wade-Giles (output)": "na",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "na",
+    "Pinyin (output)": "na"
   },
   {
-    "Pinyin": "nen",
-    "Wade-Giles": "nen"
+    "Pinyin (input)": "nai",
+    "Wade-Giles (output)": "nai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nai",
+    "Pinyin (output)": "nai"
   },
   {
-    "Pinyin": "neng",
-    "Wade-Giles": "neng"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": null,
+    "Pinyin (output)": null
   },
   {
-    "Pinyin": "ni",
-    "Wade-Giles": "ni"
+    "Pinyin (input)": "nang",
+    "Wade-Giles (output)": "nang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nang",
+    "Pinyin (output)": "nang"
   },
   {
-    "Pinyin": "nian",
-    "Wade-Giles": "nien"
+    "Pinyin (input)": "nao",
+    "Wade-Giles (output)": "nao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nao",
+    "Pinyin (output)": "nao"
   },
   {
-    "Pinyin": "niang",
-    "Wade-Giles": "niang"
+    "Pinyin (input)": "ne",
+    "Wade-Giles (output)": "ne",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ne",
+    "Pinyin (output)": "ne"
   },
   {
-    "Pinyin": "niao",
-    "Wade-Giles": "niao"
+    "Pinyin (input)": "nei",
+    "Wade-Giles (output)": "nei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nei",
+    "Pinyin (output)": "nei"
   },
   {
-    "Pinyin": "nie",
-    "Wade-Giles": "nieh"
+    "Pinyin (input)": "nen",
+    "Wade-Giles (output)": "nen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nen",
+    "Pinyin (output)": "nen"
   },
   {
-    "Pinyin": "nin",
-    "Wade-Giles": "nin"
+    "Pinyin (input)": "neng",
+    "Wade-Giles (output)": "neng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "neng",
+    "Pinyin (output)": "neng"
   },
   {
-    "Pinyin": "ning",
-    "Wade-Giles": "ning"
+    "Pinyin (input)": "ni",
+    "Wade-Giles (output)": "ni",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ni",
+    "Pinyin (output)": "ni"
   },
   {
-    "Pinyin": "niu",
-    "Wade-Giles": "niu"
+    "Pinyin (input)": "nian",
+    "Wade-Giles (output)": "nien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nien",
+    "Pinyin (output)": "nian"
   },
   {
-    "Pinyin": "nong",
-    "Wade-Giles": "nung"
+    "Pinyin (input)": "niang",
+    "Wade-Giles (output)": "niang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "niang",
+    "Pinyin (output)": "niang"
   },
   {
-    "Pinyin": "nou",
-    "Wade-Giles": "nou"
+    "Pinyin (input)": "niao",
+    "Wade-Giles (output)": "niao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "niao",
+    "Pinyin (output)": "niao"
   },
   {
-    "Pinyin": "nu",
-    "Wade-Giles": "nu"
+    "Pinyin (input)": "nie",
+    "Wade-Giles (output)": "nieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nieh",
+    "Pinyin (output)": "nie"
   },
   {
-    "Pinyin": "n\u00fc ",
-    "Wade-Giles": "n\u00fc "
+    "Pinyin (input)": "nin",
+    "Wade-Giles (output)": "nin",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nin",
+    "Pinyin (output)": "nin"
   },
   {
-    "Pinyin": "nuan",
-    "Wade-Giles": "nuan"
+    "Pinyin (input)": "ning",
+    "Wade-Giles (output)": "ning",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ning",
+    "Pinyin (output)": "ning"
   },
   {
-    "Pinyin": "nuo",
-    "Wade-Giles": "no"
+    "Pinyin (input)": "niu",
+    "Wade-Giles (output)": "niu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "niu",
+    "Pinyin (output)": "niu"
   },
   {
-    "Pinyin": "n\u00fce ",
-    "Wade-Giles": "n\u00fceh "
+    "Pinyin (input)": "nong",
+    "Wade-Giles (output)": "nung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nung",
+    "Pinyin (output)": "nong"
   },
   {
-    "Pinyin": "o",
-    "Wade-Giles": "o"
+    "Pinyin (input)": "nou",
+    "Wade-Giles (output)": "nou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nou",
+    "Pinyin (output)": "nou"
   },
   {
-    "Pinyin": "ou",
-    "Wade-Giles": "ou"
+    "Pinyin (input)": "nu",
+    "Wade-Giles (output)": "nu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nu",
+    "Pinyin (output)": "nu"
   },
   {
-    "Pinyin": "pa",
-    "Wade-Giles": "p'a"
+    "Pinyin (input)": "n\u00fc ",
+    "Wade-Giles (output)": "n\u00fc ",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "n\u00fc ",
+    "Pinyin (output)": "n\u00fc "
   },
   {
-    "Pinyin": "p",
-    "Wade-Giles": "p'ai"
+    "Pinyin (input)": "nv",
+    "Wade-Giles (output)": "n\u00fc ",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nu",
+    "Pinyin (output)": "n\u00fc"
   },
   {
-    "Pinyin": "pan",
-    "Wade-Giles": "p'an"
+    "Pinyin (input)": "nuan",
+    "Wade-Giles (output)": "nuan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nuan",
+    "Pinyin (output)": "nuan"
   },
   {
-    "Pinyin": "pang",
-    "Wade-Giles": "p'ang"
+    "Pinyin (input)": "nuo",
+    "Wade-Giles (output)": "no",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "no",
+    "Pinyin (output)": "nuo"
   },
   {
-    "Pinyin": "pao",
-    "Wade-Giles": "p'ao"
+    "Pinyin (input)": "n\u00fce ",
+    "Wade-Giles (output)": "n\u00fceh ",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "n\u00fceh ",
+    "Pinyin (output)": "n\u00fce "
   },
   {
-    "Pinyin": "pei",
-    "Wade-Giles": "p'ei"
+    "Pinyin (input)": "nve",
+    "Wade-Giles (output)": "n\u00fceh ",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "nueh ",
+    "Pinyin (output)": "n\u00fce"
   },
   {
-    "Pinyin": "pen",
-    "Wade-Giles": "p'en"
+    "Pinyin (input)": "o",
+    "Wade-Giles (output)": "o",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "o",
+    "Pinyin (output)": "o"
   },
   {
-    "Pinyin": "peng",
-    "Wade-Giles": "p'eng"
+    "Pinyin (input)": "ou",
+    "Wade-Giles (output)": "ou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ou",
+    "Pinyin (output)": "ou"
   },
   {
-    "Pinyin": "pi",
-    "Wade-Giles": "p'i"
+    "Pinyin (input)": "pa",
+    "Wade-Giles (output)": "p'a",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'a",
+    "Pinyin (output)": "pa"
   },
   {
-    "Pinyin": "pian",
-    "Wade-Giles": "p'ien"
+    "Pinyin (input)": "p",
+    "Wade-Giles (output)": "p'ai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'ai",
+    "Pinyin (output)": "p"
   },
   {
-    "Pinyin": "piao",
-    "Wade-Giles": "p'iao"
+    "Pinyin (input)": "pan",
+    "Wade-Giles (output)": "p'an",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'an",
+    "Pinyin (output)": "pan"
   },
   {
-    "Pinyin": "pie",
-    "Wade-Giles": "p'ieh"
+    "Pinyin (input)": "pang",
+    "Wade-Giles (output)": "p'ang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'ang",
+    "Pinyin (output)": "pang"
   },
   {
-    "Pinyin": "pin",
-    "Wade-Giles": "p'in"
+    "Pinyin (input)": "pao",
+    "Wade-Giles (output)": "p'ao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'ao",
+    "Pinyin (output)": "pao"
   },
   {
-    "Pinyin": "ping",
-    "Wade-Giles": "p'ing"
+    "Pinyin (input)": "pei",
+    "Wade-Giles (output)": "p'ei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'ei",
+    "Pinyin (output)": "pei"
   },
   {
-    "Pinyin": "po",
-    "Wade-Giles": "p'o"
+    "Pinyin (input)": "pen",
+    "Wade-Giles (output)": "p'en",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'en",
+    "Pinyin (output)": "pen"
   },
   {
-    "Pinyin": "pou",
-    "Wade-Giles": "p'ou"
+    "Pinyin (input)": "peng",
+    "Wade-Giles (output)": "p'eng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'eng",
+    "Pinyin (output)": "peng"
   },
   {
-    "Pinyin": "pu",
-    "Wade-Giles": "p'u"
+    "Pinyin (input)": "pi",
+    "Wade-Giles (output)": "p'i",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'i",
+    "Pinyin (output)": "pi"
   },
   {
-    "Pinyin": "qi",
-    "Wade-Giles": "ch'i"
+    "Pinyin (input)": "pian",
+    "Wade-Giles (output)": "p'ien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'ien",
+    "Pinyin (output)": "pian"
   },
   {
-    "Pinyin": "qia",
-    "Wade-Giles": "ch'ia"
+    "Pinyin (input)": "piao",
+    "Wade-Giles (output)": "p'iao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'iao",
+    "Pinyin (output)": "piao"
   },
   {
-    "Pinyin": "qian",
-    "Wade-Giles": "ch'ien"
+    "Pinyin (input)": "pie",
+    "Wade-Giles (output)": "p'ieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'ieh",
+    "Pinyin (output)": "pie"
   },
   {
-    "Pinyin": "qiang",
-    "Wade-Giles": "ch'iang"
+    "Pinyin (input)": "pin",
+    "Wade-Giles (output)": "p'in",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'in",
+    "Pinyin (output)": "pin"
   },
   {
-    "Pinyin": "qiao",
-    "Wade-Giles": "ch'iao"
+    "Pinyin (input)": "ping",
+    "Wade-Giles (output)": "p'ing",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'ing",
+    "Pinyin (output)": "ping"
   },
   {
-    "Pinyin": "qie",
-    "Wade-Giles": "ch'ieh"
+    "Pinyin (input)": "po",
+    "Wade-Giles (output)": "p'o",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'o",
+    "Pinyin (output)": "po"
   },
   {
-    "Pinyin": "qin",
-    "Wade-Giles": "ch'in"
+    "Pinyin (input)": "pou",
+    "Wade-Giles (output)": "p'ou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'ou",
+    "Pinyin (output)": "pou"
   },
   {
-    "Pinyin": "qing",
-    "Wade-Giles": "ch'ing"
+    "Pinyin (input)": "pu",
+    "Wade-Giles (output)": "p'u",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "p'u",
+    "Pinyin (output)": "pu"
   },
   {
-    "Pinyin": "qiong",
-    "Wade-Giles": "ch'iung"
+    "Pinyin (input)": "qi",
+    "Wade-Giles (output)": "ch'i",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'i",
+    "Pinyin (output)": "qi"
   },
   {
-    "Pinyin": "qiu",
-    "Wade-Giles": "ch'iu"
+    "Pinyin (input)": "qia",
+    "Wade-Giles (output)": "ch'ia",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ia",
+    "Pinyin (output)": "qia"
   },
   {
-    "Pinyin": "qu",
-    "Wade-Giles": "ch'u"
+    "Pinyin (input)": "qian",
+    "Wade-Giles (output)": "ch'ien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ien",
+    "Pinyin (output)": "qian"
   },
   {
-    "Pinyin": "quan",
-    "Wade-Giles": "ch\u2019\u00fcan "
+    "Pinyin (input)": "qiang",
+    "Wade-Giles (output)": "ch'iang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'iang",
+    "Pinyin (output)": "qiang"
   },
   {
-    "Pinyin": "que",
-    "Wade-Giles": "ch\u2019\u00fceh\u00a0"
+    "Pinyin (input)": "qiao",
+    "Wade-Giles (output)": "ch'iao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'iao",
+    "Pinyin (output)": "qiao"
   },
   {
-    "Pinyin": "qun",
-    "Wade-Giles": "ch\u2019\u00fcn "
+    "Pinyin (input)": "qie",
+    "Wade-Giles (output)": "ch'ieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ieh",
+    "Pinyin (output)": "qie"
   },
   {
-    "Pinyin": "ran",
-    "Wade-Giles": "jan"
+    "Pinyin (input)": "qin",
+    "Wade-Giles (output)": "ch'in",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'in",
+    "Pinyin (output)": "qin"
   },
   {
-    "Pinyin": "rang",
-    "Wade-Giles": "jang"
+    "Pinyin (input)": "qing",
+    "Wade-Giles (output)": "ch'ing",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ing",
+    "Pinyin (output)": "qing"
   },
   {
-    "Pinyin": "rao",
-    "Wade-Giles": "jao"
+    "Pinyin (input)": "qiong",
+    "Wade-Giles (output)": "ch'iung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'iung",
+    "Pinyin (output)": "qiong"
   },
   {
-    "Pinyin": "re",
-    "Wade-Giles": "je"
+    "Pinyin (input)": "qiu",
+    "Wade-Giles (output)": "ch'iu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'iu",
+    "Pinyin (output)": "qiu"
   },
   {
-    "Pinyin": "ren",
-    "Wade-Giles": "jen"
+    "Pinyin (input)": "qu",
+    "Wade-Giles (output)": "ch'u",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'u",
+    "Pinyin (output)": "qu"
   },
   {
-    "Pinyin": "reng",
-    "Wade-Giles": "jeng"
+    "Pinyin (input)": "quan",
+    "Wade-Giles (output)": "ch\u2019\u00fcan ",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch\u2019\u00fcan ",
+    "Pinyin (output)": "quan"
   },
   {
-    "Pinyin": "ri",
-    "Wade-Giles": "jih"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'uan",
+    "Pinyin (output)": "quan"
   },
   {
-    "Pinyin": "rong",
-    "Wade-Giles": "jung"
+    "Pinyin (input)": "que",
+    "Wade-Giles (output)": "ch\u2019\u00fceh\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch\u2019\u00fceh\u00a0",
+    "Pinyin (output)": "que"
   },
   {
-    "Pinyin": "rou",
-    "Wade-Giles": "jou"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'ueh",
+    "Pinyin (output)": "que"
   },
   {
-    "Pinyin": "ru",
-    "Wade-Giles": "ju"
+    "Pinyin (input)": "qun",
+    "Wade-Giles (output)": "ch\u2019\u00fcn ",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch\u2019\u00fcn ",
+    "Pinyin (output)": "qun"
   },
   {
-    "Pinyin": "ruan",
-    "Wade-Giles": "juan"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ch'un",
+    "Pinyin (output)": "qun"
   },
   {
-    "Pinyin": "rui",
-    "Wade-Giles": "jui"
+    "Pinyin (input)": "ran",
+    "Wade-Giles (output)": "jan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jan",
+    "Pinyin (output)": "ran"
   },
   {
-    "Pinyin": "run",
-    "Wade-Giles": "jun"
+    "Pinyin (input)": "rang",
+    "Wade-Giles (output)": "jang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jang",
+    "Pinyin (output)": "rang"
   },
   {
-    "Pinyin": "ruo",
-    "Wade-Giles": "jo"
+    "Pinyin (input)": "rao",
+    "Wade-Giles (output)": "jao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jao",
+    "Pinyin (output)": "rao"
   },
   {
-    "Pinyin": "sa",
-    "Wade-Giles": "sa"
+    "Pinyin (input)": "re",
+    "Wade-Giles (output)": "je",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "je",
+    "Pinyin (output)": "re"
   },
   {
-    "Pinyin": "sai",
-    "Wade-Giles": "sai"
+    "Pinyin (input)": "ren",
+    "Wade-Giles (output)": "jen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jen",
+    "Pinyin (output)": "ren"
   },
   {
-    "Pinyin": "san",
-    "Wade-Giles": "san"
+    "Pinyin (input)": "reng",
+    "Wade-Giles (output)": "jeng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jeng",
+    "Pinyin (output)": "reng"
   },
   {
-    "Pinyin": "sang",
-    "Wade-Giles": "sang"
+    "Pinyin (input)": "ri",
+    "Wade-Giles (output)": "jih",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jih",
+    "Pinyin (output)": "ri"
   },
   {
-    "Pinyin": "sao",
-    "Wade-Giles": "sao"
+    "Pinyin (input)": "rong",
+    "Wade-Giles (output)": "jung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jung",
+    "Pinyin (output)": "rong"
   },
   {
-    "Pinyin": "se",
-    "Wade-Giles": "se"
+    "Pinyin (input)": "rou",
+    "Wade-Giles (output)": "jou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jou",
+    "Pinyin (output)": "rou"
   },
   {
-    "Pinyin": "sen",
-    "Wade-Giles": "sen"
+    "Pinyin (input)": "ru",
+    "Wade-Giles (output)": "ju",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ju",
+    "Pinyin (output)": "ru"
   },
   {
-    "Pinyin": "seng",
-    "Wade-Giles": "seng"
+    "Pinyin (input)": "ruan",
+    "Wade-Giles (output)": "juan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "juan",
+    "Pinyin (output)": "ruan"
   },
   {
-    "Pinyin": "sha",
-    "Wade-Giles": "sha"
+    "Pinyin (input)": "rui",
+    "Wade-Giles (output)": "jui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jui",
+    "Pinyin (output)": "rui"
   },
   {
-    "Pinyin": "shai",
-    "Wade-Giles": "shai"
+    "Pinyin (input)": "run",
+    "Wade-Giles (output)": "jun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jun",
+    "Pinyin (output)": "run"
   },
   {
-    "Pinyin": "shan",
-    "Wade-Giles": "shan"
+    "Pinyin (input)": "ruo",
+    "Wade-Giles (output)": "jo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "jo",
+    "Pinyin (output)": "ruo"
   },
   {
-    "Pinyin": "shang",
-    "Wade-Giles": "shang"
+    "Pinyin (input)": "sa",
+    "Wade-Giles (output)": "sa",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sa",
+    "Pinyin (output)": "sa"
   },
   {
-    "Pinyin": "shao",
-    "Wade-Giles": "shao"
+    "Pinyin (input)": "sai",
+    "Wade-Giles (output)": "sai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sai",
+    "Pinyin (output)": "sai"
   },
   {
-    "Pinyin": "she",
-    "Wade-Giles": "she"
+    "Pinyin (input)": "san",
+    "Wade-Giles (output)": "san",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "san",
+    "Pinyin (output)": "san"
   },
   {
-    "Pinyin": "shei",
-    "Wade-Giles": "shei"
+    "Pinyin (input)": "sang",
+    "Wade-Giles (output)": "sang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sang",
+    "Pinyin (output)": "sang"
   },
   {
-    "Pinyin": "shen",
-    "Wade-Giles": "shen"
+    "Pinyin (input)": "sao",
+    "Wade-Giles (output)": "sao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sao",
+    "Pinyin (output)": "sao"
   },
   {
-    "Pinyin": "sheng",
-    "Wade-Giles": "sheng"
+    "Pinyin (input)": "se",
+    "Wade-Giles (output)": "se",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "se",
+    "Pinyin (output)": "se"
   },
   {
-    "Pinyin": "shi",
-    "Wade-Giles": "shih"
+    "Pinyin (input)": "sen",
+    "Wade-Giles (output)": "sen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sen",
+    "Pinyin (output)": "sen"
   },
   {
-    "Pinyin": "shou",
-    "Wade-Giles": "shou"
+    "Pinyin (input)": "seng",
+    "Wade-Giles (output)": "seng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "seng",
+    "Pinyin (output)": "seng"
   },
   {
-    "Pinyin": "shu",
-    "Wade-Giles": "shu"
+    "Pinyin (input)": "sha",
+    "Wade-Giles (output)": "sha",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sha",
+    "Pinyin (output)": "sha"
   },
   {
-    "Pinyin": "shua",
-    "Wade-Giles": "shua"
+    "Pinyin (input)": "shai",
+    "Wade-Giles (output)": "shai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shai",
+    "Pinyin (output)": "shai"
   },
   {
-    "Pinyin": "shuai",
-    "Wade-Giles": "shuai"
+    "Pinyin (input)": "shan",
+    "Wade-Giles (output)": "shan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shan",
+    "Pinyin (output)": "shan"
   },
   {
-    "Pinyin": "shuan",
-    "Wade-Giles": "shuan"
+    "Pinyin (input)": "shang",
+    "Wade-Giles (output)": "shang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shang",
+    "Pinyin (output)": "shang"
   },
   {
-    "Pinyin": "shuang",
-    "Wade-Giles": "shuang"
+    "Pinyin (input)": "shao",
+    "Wade-Giles (output)": "shao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shao",
+    "Pinyin (output)": "shao"
   },
   {
-    "Pinyin": "shui",
-    "Wade-Giles": "shui"
+    "Pinyin (input)": "she",
+    "Wade-Giles (output)": "she",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "she",
+    "Pinyin (output)": "she"
   },
   {
-    "Pinyin": "shun",
-    "Wade-Giles": "shun"
+    "Pinyin (input)": "shei",
+    "Wade-Giles (output)": "shei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shei",
+    "Pinyin (output)": "shei"
   },
   {
-    "Pinyin": "shuo",
-    "Wade-Giles": "shuo"
+    "Pinyin (input)": "shen",
+    "Wade-Giles (output)": "shen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shen",
+    "Pinyin (output)": "shen"
   },
   {
-    "Pinyin": "si",
-    "Wade-Giles": "ssu"
+    "Pinyin (input)": "sheng",
+    "Wade-Giles (output)": "sheng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sheng",
+    "Pinyin (output)": "sheng"
   },
   {
-    "Pinyin": "song",
-    "Wade-Giles": "sung"
+    "Pinyin (input)": "shi",
+    "Wade-Giles (output)": "shih",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shih",
+    "Pinyin (output)": "shi"
   },
   {
-    "Pinyin": "sou",
-    "Wade-Giles": "sou"
+    "Pinyin (input)": "shou",
+    "Wade-Giles (output)": "shou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shou",
+    "Pinyin (output)": "shou"
   },
   {
-    "Pinyin": "su",
-    "Wade-Giles": "su"
+    "Pinyin (input)": "shu",
+    "Wade-Giles (output)": "shu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shu",
+    "Pinyin (output)": "shu"
   },
   {
-    "Pinyin": "suan",
-    "Wade-Giles": "suan"
+    "Pinyin (input)": "shua",
+    "Wade-Giles (output)": "shua",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shua",
+    "Pinyin (output)": "shua"
   },
   {
-    "Pinyin": "sui",
-    "Wade-Giles": "sui"
+    "Pinyin (input)": "shuai",
+    "Wade-Giles (output)": "shuai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shuai",
+    "Pinyin (output)": "shuai"
   },
   {
-    "Pinyin": "sun",
-    "Wade-Giles": "sun"
+    "Pinyin (input)": "shuan",
+    "Wade-Giles (output)": "shuan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shuan",
+    "Pinyin (output)": "shuan"
   },
   {
-    "Pinyin": "suo",
-    "Wade-Giles": "so"
+    "Pinyin (input)": "shuang",
+    "Wade-Giles (output)": "shuang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shuang",
+    "Pinyin (output)": "shuang"
   },
   {
-    "Pinyin": "ta",
-    "Wade-Giles": "t'a"
+    "Pinyin (input)": "shui",
+    "Wade-Giles (output)": "shui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shui",
+    "Pinyin (output)": "shui"
   },
   {
-    "Pinyin": "tai",
-    "Wade-Giles": "t'ai"
+    "Pinyin (input)": "shun",
+    "Wade-Giles (output)": "shun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shun",
+    "Pinyin (output)": "shun"
   },
   {
-    "Pinyin": "tan",
-    "Wade-Giles": "t'an"
+    "Pinyin (input)": "shuo",
+    "Wade-Giles (output)": "shuo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "shuo",
+    "Pinyin (output)": "shuo"
   },
   {
-    "Pinyin": "tao",
-    "Wade-Giles": "t'ao"
+    "Pinyin (input)": "si",
+    "Wade-Giles (output)": "ssu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ssu",
+    "Pinyin (output)": "si"
   },
   {
-    "Pinyin": "tang",
-    "Wade-Giles": "t'ang"
+    "Pinyin (input)": "song",
+    "Wade-Giles (output)": "sung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sung",
+    "Pinyin (output)": "song"
   },
   {
-    "Pinyin": "te",
-    "Wade-Giles": "t'e"
+    "Pinyin (input)": "sou",
+    "Wade-Giles (output)": "sou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sou",
+    "Pinyin (output)": "sou"
   },
   {
-    "Pinyin": "tei",
-    "Wade-Giles": "t'ai"
+    "Pinyin (input)": "su",
+    "Wade-Giles (output)": "su",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "su",
+    "Pinyin (output)": "su"
   },
   {
-    "Pinyin": "teng",
-    "Wade-Giles": "t'eng"
+    "Pinyin (input)": "suan",
+    "Wade-Giles (output)": "suan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "suan",
+    "Pinyin (output)": "suan"
   },
   {
-    "Pinyin": "ti",
-    "Wade-Giles": "t'i"
+    "Pinyin (input)": "sui",
+    "Wade-Giles (output)": "sui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sui",
+    "Pinyin (output)": "sui"
   },
   {
-    "Pinyin": "tian",
-    "Wade-Giles": "t'ien"
+    "Pinyin (input)": "sun",
+    "Wade-Giles (output)": "sun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "sun",
+    "Pinyin (output)": "sun"
   },
   {
-    "Pinyin": "tiao",
-    "Wade-Giles": "t'iao"
+    "Pinyin (input)": "suo",
+    "Wade-Giles (output)": "so",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "so",
+    "Pinyin (output)": "suo"
   },
   {
-    "Pinyin": "tie",
-    "Wade-Giles": "t'ieh"
+    "Pinyin (input)": "ta",
+    "Wade-Giles (output)": "t'a",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'a",
+    "Pinyin (output)": "ta"
   },
   {
-    "Pinyin": "ting",
-    "Wade-Giles": "t'ing"
+    "Pinyin (input)": "tai",
+    "Wade-Giles (output)": "t'ai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ai",
+    "Pinyin (output)": "tai"
   },
   {
-    "Pinyin": "tong",
-    "Wade-Giles": "t'ung"
+    "Pinyin (input)": "tan",
+    "Wade-Giles (output)": "t'an",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'an",
+    "Pinyin (output)": "tan"
   },
   {
-    "Pinyin": "tou",
-    "Wade-Giles": "t'ou"
+    "Pinyin (input)": "tao",
+    "Wade-Giles (output)": "t'ao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ao",
+    "Pinyin (output)": "tao"
   },
   {
-    "Pinyin": "tu",
-    "Wade-Giles": "t'u"
+    "Pinyin (input)": "tang",
+    "Wade-Giles (output)": "t'ang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ang",
+    "Pinyin (output)": "tang"
   },
   {
-    "Pinyin": "tuan",
-    "Wade-Giles": "t'uan"
+    "Pinyin (input)": "te",
+    "Wade-Giles (output)": "t'e",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'e",
+    "Pinyin (output)": "te"
   },
   {
-    "Pinyin": "tui",
-    "Wade-Giles": "t'ui"
+    "Pinyin (input)": "tei",
+    "Wade-Giles (output)": "t'ai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ai",
+    "Pinyin (output)": "tei"
   },
   {
-    "Pinyin": "tun",
-    "Wade-Giles": "t'un"
+    "Pinyin (input)": "teng",
+    "Wade-Giles (output)": "t'eng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'eng",
+    "Pinyin (output)": "teng"
   },
   {
-    "Pinyin": "tuo",
-    "Wade-Giles": "t'o"
+    "Pinyin (input)": "ti",
+    "Wade-Giles (output)": "t'i",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'i",
+    "Pinyin (output)": "ti"
   },
   {
-    "Pinyin": "wa",
-    "Wade-Giles": "wa"
+    "Pinyin (input)": "tian",
+    "Wade-Giles (output)": "t'ien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ien",
+    "Pinyin (output)": "tian"
   },
   {
-    "Pinyin": "wai",
-    "Wade-Giles": "wai"
+    "Pinyin (input)": "tiao",
+    "Wade-Giles (output)": "t'iao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'iao",
+    "Pinyin (output)": "tiao"
   },
   {
-    "Pinyin": "wan",
-    "Wade-Giles": "wan"
+    "Pinyin (input)": "tie",
+    "Wade-Giles (output)": "t'ieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ieh",
+    "Pinyin (output)": "tie"
   },
   {
-    "Pinyin": "wang",
-    "Wade-Giles": "wang"
+    "Pinyin (input)": "ting",
+    "Wade-Giles (output)": "t'ing",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ing",
+    "Pinyin (output)": "ting"
   },
   {
-    "Pinyin": "wei",
-    "Wade-Giles": "wei"
+    "Pinyin (input)": "tong",
+    "Wade-Giles (output)": "t'ung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ung",
+    "Pinyin (output)": "tong"
   },
   {
-    "Pinyin": "wen",
-    "Wade-Giles": "wen"
+    "Pinyin (input)": "tou",
+    "Wade-Giles (output)": "t'ou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ou",
+    "Pinyin (output)": "tou"
   },
   {
-    "Pinyin": "weng",
-    "Wade-Giles": "weng"
+    "Pinyin (input)": "tu",
+    "Wade-Giles (output)": "t'u",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'u",
+    "Pinyin (output)": "tu"
   },
   {
-    "Pinyin": "wo",
-    "Wade-Giles": "wo"
+    "Pinyin (input)": "tuan",
+    "Wade-Giles (output)": "t'uan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'uan",
+    "Pinyin (output)": "tuan"
   },
   {
-    "Pinyin": "wu",
-    "Wade-Giles": "wu"
+    "Pinyin (input)": "tui",
+    "Wade-Giles (output)": "t'ui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'ui",
+    "Pinyin (output)": "tui"
   },
   {
-    "Pinyin": "xi",
-    "Wade-Giles": "hsi"
+    "Pinyin (input)": "tun",
+    "Wade-Giles (output)": "t'un",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'un",
+    "Pinyin (output)": "tun"
   },
   {
-    "Pinyin": "xia",
-    "Wade-Giles": "hsia"
+    "Pinyin (input)": "tuo",
+    "Wade-Giles (output)": "t'o",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "t'o",
+    "Pinyin (output)": "tuo"
   },
   {
-    "Pinyin": "xian",
-    "Wade-Giles": "hsien"
+    "Pinyin (input)": "wa",
+    "Wade-Giles (output)": "wa",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "wa",
+    "Pinyin (output)": "wa"
   },
   {
-    "Pinyin": "xiang",
-    "Wade-Giles": "hsieng"
+    "Pinyin (input)": "wai",
+    "Wade-Giles (output)": "wai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "wai",
+    "Pinyin (output)": "wai"
   },
   {
-    "Pinyin": "xiang",
-    "Wade-Giles": "hsiang"
+    "Pinyin (input)": "wan",
+    "Wade-Giles (output)": "wan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "wan",
+    "Pinyin (output)": "wan"
   },
   {
-    "Pinyin": "xiao",
-    "Wade-Giles": "hsiao"
+    "Pinyin (input)": "wang",
+    "Wade-Giles (output)": "wang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "wang",
+    "Pinyin (output)": "wang"
   },
   {
-    "Pinyin": "xie",
-    "Wade-Giles": "hsieh"
+    "Pinyin (input)": "wei",
+    "Wade-Giles (output)": "wei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "wei",
+    "Pinyin (output)": "wei"
   },
   {
-    "Pinyin": "xin",
-    "Wade-Giles": "hsin"
+    "Pinyin (input)": "wen",
+    "Wade-Giles (output)": "wen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "wen",
+    "Pinyin (output)": "wen"
   },
   {
-    "Pinyin": "xing",
-    "Wade-Giles": "hsing"
+    "Pinyin (input)": "weng",
+    "Wade-Giles (output)": "weng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "weng",
+    "Pinyin (output)": "weng"
   },
   {
-    "Pinyin": "xiong",
-    "Wade-Giles": "hsiung"
+    "Pinyin (input)": "wo",
+    "Wade-Giles (output)": "wo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "wo",
+    "Pinyin (output)": "wo"
   },
   {
-    "Pinyin": "xiu",
-    "Wade-Giles": "hsiu"
+    "Pinyin (input)": "wu",
+    "Wade-Giles (output)": "wu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "wu",
+    "Pinyin (output)": "wu"
   },
   {
-    "Pinyin": "xu",
-    "Wade-Giles": "hs\u00fc\u00a0"
+    "Pinyin (input)": "xi",
+    "Wade-Giles (output)": "hsi",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsi",
+    "Pinyin (output)": "xi"
   },
   {
-    "Pinyin": "xuan",
-    "Wade-Giles": "hs\u00fcan\u00a0"
+    "Pinyin (input)": "xia",
+    "Wade-Giles (output)": "hsia",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsia",
+    "Pinyin (output)": "xia"
   },
   {
-    "Pinyin": "xue",
-    "Wade-Giles": "hs\u00fceh\u00a0"
+    "Pinyin (input)": "xian",
+    "Wade-Giles (output)": "hsien",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsien",
+    "Pinyin (output)": "xian"
   },
   {
-    "Pinyin": "xun",
-    "Wade-Giles": "hs\u00fcn\u00a0"
+    "Pinyin (input)": "xiang",
+    "Wade-Giles (output)": "hsieng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsieng",
+    "Pinyin (output)": "xiang"
   },
   {
-    "Pinyin": "ya",
-    "Wade-Giles": "ya"
+    "Pinyin (input)": "xiang",
+    "Wade-Giles (output)": "hsiang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsiang",
+    "Pinyin (output)": "xiang"
   },
   {
-    "Pinyin": "yai",
-    "Wade-Giles": "yai"
+    "Pinyin (input)": "xiao",
+    "Wade-Giles (output)": "hsiao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsiao",
+    "Pinyin (output)": "xiao"
   },
   {
-    "Pinyin": "yan",
-    "Wade-Giles": "yen"
+    "Pinyin (input)": "xie",
+    "Wade-Giles (output)": "hsieh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsieh",
+    "Pinyin (output)": "xie"
   },
   {
-    "Pinyin": "yang",
-    "Wade-Giles": "yang"
+    "Pinyin (input)": "xin",
+    "Wade-Giles (output)": "hsin",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsin",
+    "Pinyin (output)": "xin"
   },
   {
-    "Pinyin": "yao",
-    "Wade-Giles": "yao"
+    "Pinyin (input)": "xing",
+    "Wade-Giles (output)": "hsing",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsing",
+    "Pinyin (output)": "xing"
   },
   {
-    "Pinyin": "ye",
-    "Wade-Giles": "yeh"
+    "Pinyin (input)": "xiong",
+    "Wade-Giles (output)": "hsiung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsiung",
+    "Pinyin (output)": "xiong"
   },
   {
-    "Pinyin": "yi",
-    "Wade-Giles": "i"
+    "Pinyin (input)": "xiu",
+    "Wade-Giles (output)": "hsiu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsiu",
+    "Pinyin (output)": "xiu"
   },
   {
-    "Pinyin": "yin",
-    "Wade-Giles": "yin"
+    "Pinyin (input)": "xu",
+    "Wade-Giles (output)": "hs\u00fc\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hs\u00fc\u00a0",
+    "Pinyin (output)": "xu"
   },
   {
-    "Pinyin": "ying",
-    "Wade-Giles": "ying"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsu",
+    "Pinyin (output)": "xu"
   },
   {
-    "Pinyin": "yo",
-    "Wade-Giles": "yo"
+    "Pinyin (input)": "xuan",
+    "Wade-Giles (output)": "hs\u00fcan\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hs\u00fcan\u00a0",
+    "Pinyin (output)": "xuan"
   },
   {
-    "Pinyin": "yong",
-    "Wade-Giles": "yung"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsuan",
+    "Pinyin (output)": "xuan"
   },
   {
-    "Pinyin": "you",
-    "Wade-Giles": "yu"
+    "Pinyin (input)": "xue",
+    "Wade-Giles (output)": "hs\u00fceh\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hs\u00fceh\u00a0",
+    "Pinyin (output)": "xue"
   },
   {
-    "Pinyin": "yu",
-    "Wade-Giles": "y\u00fc\u00a0"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsueh",
+    "Pinyin (output)": "xue"
   },
   {
-    "Pinyin": "yuan",
-    "Wade-Giles": "y\u00fcan\u00a0"
+    "Pinyin (input)": "xun",
+    "Wade-Giles (output)": "hs\u00fcn\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hs\u00fcn\u00a0",
+    "Pinyin (output)": "xun"
   },
   {
-    "Pinyin": "yue",
-    "Wade-Giles": "y\u00fceh\u00a0"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "hsun",
+    "Pinyin (output)": "xun"
   },
   {
-    "Pinyin": "yun",
-    "Wade-Giles": "y\u00fcn\u00a0"
+    "Pinyin (input)": "ya",
+    "Wade-Giles (output)": "ya",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ya",
+    "Pinyin (output)": "ya"
   },
   {
-    "Pinyin": "za",
-    "Wade-Giles": "tsa"
+    "Pinyin (input)": "yai",
+    "Wade-Giles (output)": "yai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yai",
+    "Pinyin (output)": "yai"
   },
   {
-    "Pinyin": "zai",
-    "Wade-Giles": "tsai"
+    "Pinyin (input)": "yan",
+    "Wade-Giles (output)": "yen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yen",
+    "Pinyin (output)": "yan"
   },
   {
-    "Pinyin": "zan",
-    "Wade-Giles": "tsan"
+    "Pinyin (input)": "yang",
+    "Wade-Giles (output)": "yang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yang",
+    "Pinyin (output)": "yang"
   },
   {
-    "Pinyin": "zang",
-    "Wade-Giles": "tsang"
+    "Pinyin (input)": "yao",
+    "Wade-Giles (output)": "yao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yao",
+    "Pinyin (output)": "yao"
   },
   {
-    "Pinyin": "zao",
-    "Wade-Giles": "tsao"
+    "Pinyin (input)": "ye",
+    "Wade-Giles (output)": "yeh",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yeh",
+    "Pinyin (output)": "ye"
   },
   {
-    "Pinyin": "ze",
-    "Wade-Giles": "tse"
+    "Pinyin (input)": "yi",
+    "Wade-Giles (output)": "i",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "i",
+    "Pinyin (output)": "yi"
   },
   {
-    "Pinyin": "zei",
-    "Wade-Giles": "tsei"
+    "Pinyin (input)": "yin",
+    "Wade-Giles (output)": "yin",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yin",
+    "Pinyin (output)": "yin"
   },
   {
-    "Pinyin": "zen",
-    "Wade-Giles": "tsen"
+    "Pinyin (input)": "ying",
+    "Wade-Giles (output)": "ying",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "ying",
+    "Pinyin (output)": "ying"
   },
   {
-    "Pinyin": "zeng",
-    "Wade-Giles": "tseng"
+    "Pinyin (input)": "yo",
+    "Wade-Giles (output)": "yo",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yo",
+    "Pinyin (output)": "yo"
   },
   {
-    "Pinyin": "zha",
-    "Wade-Giles": "cha"
+    "Pinyin (input)": "yong",
+    "Wade-Giles (output)": "yung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yung",
+    "Pinyin (output)": "yong"
   },
   {
-    "Pinyin": "zhai",
-    "Wade-Giles": "chai"
+    "Pinyin (input)": "you",
+    "Wade-Giles (output)": "yu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yu",
+    "Pinyin (output)": "you"
   },
   {
-    "Pinyin": "zhan",
-    "Wade-Giles": "chan"
+    "Pinyin (input)": "yu",
+    "Wade-Giles (output)": "y\u00fc\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "y\u00fc\u00a0",
+    "Pinyin (output)": "yu"
   },
   {
-    "Pinyin": "zhang",
-    "Wade-Giles": "chang"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yu",
+    "Pinyin (output)": "yu"
   },
   {
-    "Pinyin": "zhao",
-    "Wade-Giles": "chao"
+    "Pinyin (input)": "yuan",
+    "Wade-Giles (output)": "y\u00fcan\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "y\u00fcan\u00a0",
+    "Pinyin (output)": "yuan"
   },
   {
-    "Pinyin": "zhe",
-    "Wade-Giles": "che"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yuan",
+    "Pinyin (output)": "yuan"
   },
   {
-    "Pinyin": "zhei",
-    "Wade-Giles": "chei"
+    "Pinyin (input)": "yue",
+    "Wade-Giles (output)": "y\u00fceh\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "y\u00fceh\u00a0",
+    "Pinyin (output)": "yue"
   },
   {
-    "Pinyin": "zhen",
-    "Wade-Giles": "chen"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yueh",
+    "Pinyin (output)": "yue"
   },
   {
-    "Pinyin": "zheng",
-    "Wade-Giles": "cheng"
+    "Pinyin (input)": "yun",
+    "Wade-Giles (output)": "y\u00fcn\u00a0",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "y\u00fcn\u00a0",
+    "Pinyin (output)": "yun"
   },
   {
-    "Pinyin": "zhi",
-    "Wade-Giles": "chih"
+    "Pinyin (input)": null,
+    "Wade-Giles (output)": null,
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "yun",
+    "Pinyin (output)": "yun"
   },
   {
-    "Pinyin": "zhong",
-    "Wade-Giles": "chung"
+    "Pinyin (input)": "za",
+    "Wade-Giles (output)": "tsa",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsa",
+    "Pinyin (output)": "za"
   },
   {
-    "Pinyin": "zhou",
-    "Wade-Giles": "chou"
+    "Pinyin (input)": "zai",
+    "Wade-Giles (output)": "tsai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsai",
+    "Pinyin (output)": "zai"
   },
   {
-    "Pinyin": "zhu",
-    "Wade-Giles": "chu"
+    "Pinyin (input)": "zan",
+    "Wade-Giles (output)": "tsan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsan",
+    "Pinyin (output)": "zan"
   },
   {
-    "Pinyin": "zhua",
-    "Wade-Giles": "chua"
+    "Pinyin (input)": "zang",
+    "Wade-Giles (output)": "tsang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsang",
+    "Pinyin (output)": "zang"
   },
   {
-    "Pinyin": "zhuai",
-    "Wade-Giles": "chuai"
+    "Pinyin (input)": "zao",
+    "Wade-Giles (output)": "tsao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsao",
+    "Pinyin (output)": "zao"
   },
   {
-    "Pinyin": "zhuan",
-    "Wade-Giles": "chuan"
+    "Pinyin (input)": "ze",
+    "Wade-Giles (output)": "tse",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tse",
+    "Pinyin (output)": "ze"
   },
   {
-    "Pinyin": "zhuang",
-    "Wade-Giles": "chuang"
+    "Pinyin (input)": "zei",
+    "Wade-Giles (output)": "tsei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsei",
+    "Pinyin (output)": "zei"
   },
   {
-    "Pinyin": "zhui",
-    "Wade-Giles": "chui"
+    "Pinyin (input)": "zen",
+    "Wade-Giles (output)": "tsen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsen",
+    "Pinyin (output)": "zen"
   },
   {
-    "Pinyin": "zhun",
-    "Wade-Giles": "chun"
+    "Pinyin (input)": "zeng",
+    "Wade-Giles (output)": "tseng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tseng",
+    "Pinyin (output)": "zeng"
   },
   {
-    "Pinyin": "zhuo",
-    "Wade-Giles": "cho"
+    "Pinyin (input)": "zha",
+    "Wade-Giles (output)": "cha",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "cha",
+    "Pinyin (output)": "zha"
   },
   {
-    "Pinyin": "zi",
-    "Wade-Giles": "tzu"
+    "Pinyin (input)": "zhai",
+    "Wade-Giles (output)": "chai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chai",
+    "Pinyin (output)": "zhai"
   },
   {
-    "Pinyin": "zong",
-    "Wade-Giles": "tsung"
+    "Pinyin (input)": "zhan",
+    "Wade-Giles (output)": "chan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chan",
+    "Pinyin (output)": "zhan"
   },
   {
-    "Pinyin": "zou",
-    "Wade-Giles": "tsou"
+    "Pinyin (input)": "zhang",
+    "Wade-Giles (output)": "chang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chang",
+    "Pinyin (output)": "zhang"
   },
   {
-    "Pinyin": "zu",
-    "Wade-Giles": "tsu"
+    "Pinyin (input)": "zhao",
+    "Wade-Giles (output)": "chao",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chao",
+    "Pinyin (output)": "zhao"
   },
   {
-    "Pinyin": "zuan",
-    "Wade-Giles": "tsuan"
+    "Pinyin (input)": "zhe",
+    "Wade-Giles (output)": "che",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "che",
+    "Pinyin (output)": "zhe"
   },
   {
-    "Pinyin": "zui",
-    "Wade-Giles": "tsui"
+    "Pinyin (input)": "zhei",
+    "Wade-Giles (output)": "chei",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chei",
+    "Pinyin (output)": "zhei"
   },
   {
-    "Pinyin": "zun",
-    "Wade-Giles": "tsun"
+    "Pinyin (input)": "zhen",
+    "Wade-Giles (output)": "chen",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chen",
+    "Pinyin (output)": "zhen"
   },
   {
-    "Pinyin": "zuo",
-    "Wade-Giles": "tso"
+    "Pinyin (input)": "zheng",
+    "Wade-Giles (output)": "cheng",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "cheng",
+    "Pinyin (output)": "zheng"
+  },
+  {
+    "Pinyin (input)": "zhi",
+    "Wade-Giles (output)": "chih",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chih",
+    "Pinyin (output)": "zhi"
+  },
+  {
+    "Pinyin (input)": "zhong",
+    "Wade-Giles (output)": "chung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chung",
+    "Pinyin (output)": "zhong"
+  },
+  {
+    "Pinyin (input)": "zhou",
+    "Wade-Giles (output)": "chou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chou",
+    "Pinyin (output)": "zhou"
+  },
+  {
+    "Pinyin (input)": "zhu",
+    "Wade-Giles (output)": "chu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chu",
+    "Pinyin (output)": "zhu"
+  },
+  {
+    "Pinyin (input)": "zhua",
+    "Wade-Giles (output)": "chua",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chua",
+    "Pinyin (output)": "zhua"
+  },
+  {
+    "Pinyin (input)": "zhuai",
+    "Wade-Giles (output)": "chuai",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chuai",
+    "Pinyin (output)": "zhuai"
+  },
+  {
+    "Pinyin (input)": "zhuan",
+    "Wade-Giles (output)": "chuan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chuan",
+    "Pinyin (output)": "zhuan"
+  },
+  {
+    "Pinyin (input)": "zhuang",
+    "Wade-Giles (output)": "chuang",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chuang",
+    "Pinyin (output)": "zhuang"
+  },
+  {
+    "Pinyin (input)": "zhui",
+    "Wade-Giles (output)": "chui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chui",
+    "Pinyin (output)": "zhui"
+  },
+  {
+    "Pinyin (input)": "zhun",
+    "Wade-Giles (output)": "chun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "chun",
+    "Pinyin (output)": "zhun"
+  },
+  {
+    "Pinyin (input)": "zhuo",
+    "Wade-Giles (output)": "cho",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "cho",
+    "Pinyin (output)": "zhuo"
+  },
+  {
+    "Pinyin (input)": "zi",
+    "Wade-Giles (output)": "tzu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tzu",
+    "Pinyin (output)": "zi"
+  },
+  {
+    "Pinyin (input)": "zong",
+    "Wade-Giles (output)": "tsung",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsung",
+    "Pinyin (output)": "zong"
+  },
+  {
+    "Pinyin (input)": "zou",
+    "Wade-Giles (output)": "tsou",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsou",
+    "Pinyin (output)": "zou"
+  },
+  {
+    "Pinyin (input)": "zu",
+    "Wade-Giles (output)": "tsu",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsu",
+    "Pinyin (output)": "zu"
+  },
+  {
+    "Pinyin (input)": "zuan",
+    "Wade-Giles (output)": "tsuan",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsuan",
+    "Pinyin (output)": "zuan"
+  },
+  {
+    "Pinyin (input)": "zui",
+    "Wade-Giles (output)": "tsui",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsui",
+    "Pinyin (output)": "zui"
+  },
+  {
+    "Pinyin (input)": "zun",
+    "Wade-Giles (output)": "tsun",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tsun",
+    "Pinyin (output)": "zun"
+  },
+  {
+    "Pinyin (input)": "zuo",
+    "Wade-Giles (output)": "tso",
+    "Unnamed: 2": null,
+    "Wade-Giles (input)": "tso",
+    "Pinyin (output)": "zuo"
   }
 ]

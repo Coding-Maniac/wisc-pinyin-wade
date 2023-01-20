@@ -2,35 +2,41 @@ const obj = {
   pinyin: document.querySelector(".pinyin"),
   wade: document.querySelector(".wade"),
   btnSearch: document.querySelector(".btn-search"),
-  input: document.querySelector(".query"),
-  resultSpan: document.querySelector(".result"),
+  btnResult: document.querySelector(".btn-result"),
+  find: document.querySelector(".find"),
+  input: document.querySelector(".input"),
+  output: document.querySelector(".output"),
 };
 
 const toggleSearch = evt => {
-  evt.target.innerText !== obj.btnSearch.innerText
-    ? (obj.btnSearch.innerHTML = evt.target.innerText)
-    : (obj.btnSearch.innerHTML = obj.btnSearch.innerText);
+  obj.btnSearch.innerText = evt.target.innerHTML;
+  console.log(typeof obj.btnResult.innerText);
+
+  evt.target.innerHTML === "Pinyin"
+    ? (obj.btnResult.innerText = "Wade-Giles")
+    : (obj.btnResult.innerText = "Pinyin");
 };
 
 const searchAlt = async () => {
   const resultArr = [];
   const response = await fetch("./data/transited.json");
   const data = await response.json();
-  // console.log(data);
 
   const queryArr = obj.input.value.split(" ");
 
   try {
-    if (obj.btnSearch.innerText === "Find Wade-Giles") {
+    if (obj.btnSearch.innerText === "Pinyin") {
       queryArr.forEach(ele => {
-        data.forEach(item => {
-          item["Pinyin"] === ele && resultArr.push(item["Wade-Giles"]);
+        data.forEach(datum => {
+          datum["Pinyin (input)"] === ele &&
+            resultArr.push(datum["Wade-Giles (output)"]);
         });
       });
-    } else if (obj.btnSearch.innerText === "Find Pinyin") {
+    } else if (obj.btnSearch.innerText === "Wade-Giles") {
       queryArr.forEach(ele => {
-        data.forEach(item => {
-          item["Wade-Giles"] === ele && resultArr.push(item["Pinyin"]);
+        data.forEach(datum => {
+          datum["Wade-Giles (input)"] === ele &&
+            resultArr.push(datum["Pinyin (output)"]);
         });
       });
     }
@@ -40,10 +46,10 @@ const searchAlt = async () => {
   }
 
   resultArr.length !== 0
-    ? (obj.resultSpan.innerHTML = resultArr.join(" "))
-    : (obj.resultSpan.innerHTML = "Sorry, invalid result 🥲");
+    ? (obj.output.placeholder = resultArr.join(" "))
+    : (obj.output.placeholder = "Sorry, invalid result 🥲");
 };
 
 obj.pinyin.addEventListener("click", toggleSearch);
 obj.wade.addEventListener("click", toggleSearch);
-obj.btnSearch.addEventListener("click", searchAlt);
+obj.find.addEventListener("click", searchAlt);
