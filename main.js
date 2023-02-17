@@ -35,8 +35,8 @@ const searchAlt = async () => {
     } else if (obj.btnSearch.innerText === "Wade-Giles") {
       queryArr.forEach(ele => {
         data.forEach(datum => {
-          datum["Wade-Giles (input)"] === ele &&
-            resultArr.push(datum["Pinyin (output)"]);
+          datum["Wade-Giles (output)"] === ele &&
+            resultArr.push(datum["Pinyin (input)"]);
         });
       });
     }
